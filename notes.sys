@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<ArrayOfNoteClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NoteClass>
+    <noteName>201309并行计算培训</noteName>
+    <noteGuid>e798ee5d-52d6-4f1a-916a-2ba6048df7d3</noteGuid>
+    <noteDirName>201309并行计算培训</noteDirName>
+    <noteFileName>201309并行计算培训.v</noteFileName>
+    <tagGuidLst>
+      <string>2e818d58-169d-4a86-97eb-2124ad0bf817</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>mpi.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>11年9月</noteName>
+    <noteGuid>ccabdb9a-cd5f-431f-8f43-db4091fc25ca</noteGuid>
+    <noteDirName>11年9月</noteDirName>
+    <noteFileName>11年9月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>11年10月</noteName>
+    <noteGuid>625b791f-8863-406e-82b8-41f155b7d513</noteGuid>
+    <noteDirName>11年10月</noteDirName>
+    <noteFileName>11年10月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>11年11月</noteName>
+    <noteGuid>8f242a26-ea30-4b62-bbdc-cb3205401466</noteGuid>
+    <noteDirName>11年11月</noteDirName>
+    <noteFileName>11年11月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>11年12月</noteName>
+    <noteGuid>dc151718-b4d8-4c0b-9201-1e8dde5e3b4f</noteGuid>
+    <noteDirName>11年12月</noteDirName>
+    <noteFileName>11年12月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年1月</noteName>
+    <noteGuid>ee1ebf43-f789-45dd-a09f-9f4c871d6962</noteGuid>
+    <noteDirName>12年1月</noteDirName>
+    <noteFileName>12年1月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年1月遥感信息化建设会议</noteName>
+    <noteGuid>25028f56-d724-4452-bfd4-f60f7e967a5c</noteGuid>
+    <noteDirName>12年1月遥感信息化建设会议</noteDirName>
+    <noteFileName>12年1月遥感信息化建设会议.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年2月</noteName>
+    <noteGuid>52311120-22c3-49d7-aaba-04a2a680c983</noteGuid>
+    <noteDirName>12年2月</noteDirName>
+    <noteFileName>12年2月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年3月</noteName>
+    <noteGuid>71df5e2b-def8-491d-a396-500aa7891fc2</noteGuid>
+    <noteDirName>12年3月</noteDirName>
+    <noteFileName>12年3月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年4月</noteName>
+    <noteGuid>30241609-ec7e-49aa-b61d-2a86f70d6854</noteGuid>
+    <noteDirName>12年4月</noteDirName>
+    <noteFileName>12年4月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年5月</noteName>
+    <noteGuid>d0b5b116-212e-4e65-9dc7-10cff61a58a1</noteGuid>
+    <noteDirName>12年5月</noteDirName>
+    <noteFileName>12年5月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年6月</noteName>
+    <noteGuid>e6e292dc-24cc-4bbe-80b5-ed904ea22fd1</noteGuid>
+    <noteDirName>12年6月</noteDirName>
+    <noteFileName>12年6月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年7月</noteName>
+    <noteGuid>b380eacb-3e87-4a61-a26c-9fe4b7e8a28c</noteGuid>
+    <noteDirName>12年7月</noteDirName>
+    <noteFileName>12年7月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年8月</noteName>
+    <noteGuid>40bb517b-987c-41cf-b00c-315a11359bc0</noteGuid>
+    <noteDirName>12年8月</noteDirName>
+    <noteFileName>12年8月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年9月</noteName>
+    <noteGuid>cdab6881-6564-42ce-bc55-384c5127904a</noteGuid>
+    <noteDirName>12年9月</noteDirName>
+    <noteFileName>12年9月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年10月</noteName>
+    <noteGuid>120faf37-7a1e-463e-bc17-dd901fe20240</noteGuid>
+    <noteDirName>12年10月</noteDirName>
+    <noteFileName>12年10月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年11月</noteName>
+    <noteGuid>63d6b2ee-5dd5-4684-9389-8096d9139c50</noteGuid>
+    <noteDirName>12年11月</noteDirName>
+    <noteFileName>12年11月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>12年12月</noteName>
+    <noteGuid>6fc0ea23-5bd1-4f3d-b009-330dcf996bf7</noteGuid>
+    <noteDirName>12年12月</noteDirName>
+    <noteFileName>12年12月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+</ArrayOfNoteClass>
