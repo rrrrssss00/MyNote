@@ -1593,4 +1593,291 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>VIM中的寄存器使用</noteName>
+    <noteGuid>55b41e6f-8ec5-4cac-9c4d-be34b8b8b383</noteGuid>
+    <noteDirName>VIM中的寄存器使用</noteDirName>
+    <noteFileName>VIM中的寄存器使用.v</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>6be883a8-984c-4763-a2be-3b26d1da59db</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>VIM中的替换命令</noteName>
+    <noteGuid>5f2d23e4-f845-4f98-bada-68e748b661ff</noteGuid>
+    <noteDirName>VIM中的替换命令</noteDirName>
+    <noteFileName>VIM中的替换命令.v</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>6be883a8-984c-4763-a2be-3b26d1da59db</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Vim命令学习</noteName>
+    <noteGuid>a1b4ad98-2e23-4c6f-a3e0-904086678ae1</noteGuid>
+    <noteDirName>Vim命令学习</noteDirName>
+    <noteFileName>Vim命令学习.v</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>6be883a8-984c-4763-a2be-3b26d1da59db</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Windows下gVim中英文字体分别设置的问题</noteName>
+    <noteGuid>50aaf79b-9c2a-47d1-bcbb-308bf7407d87</noteGuid>
+    <noteDirName>Windows下gVim中英文字体分别设置的问题</noteDirName>
+    <noteFileName>Windows下gVim中英文字体分别设置的问题.v</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>6be883a8-984c-4763-a2be-3b26d1da59db</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>vim的字典补全（自动完成)</noteName>
+    <noteGuid>58bab359-2fb4-441b-affd-583238367a47</noteGuid>
+    <noteDirName>vim的字典补全（自动完成)</noteDirName>
+    <noteFileName>vim的字典补全（自动完成).v</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>6be883a8-984c-4763-a2be-3b26d1da59db</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>vimrc</noteName>
+    <noteGuid>9311ce8f-120c-4942-977a-a43ddbcf5e2f</noteGuid>
+    <noteDirName>vimrc</noteDirName>
+    <noteFileName>vimrc.v</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>6be883a8-984c-4763-a2be-3b26d1da59db</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Vim as Python IDE on windows</noteName>
+    <noteGuid>93aca043-1cff-424f-9247-ff8f83cf177b</noteGuid>
+    <noteDirName>Vim as Python IDE on windows</noteDirName>
+    <noteFileName>Vim as Python IDE on windows.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>6be883a8-984c-4763-a2be-3b26d1da59db</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>一些常用命令</noteName>
+    <noteGuid>067cdca9-b955-496e-934d-c69789d97a92</noteGuid>
+    <noteDirName>一些常用命令</noteDirName>
+    <noteFileName>一些常用命令.v</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>3fc53c0e-416c-49f8-bb42-c4fb9c40600c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>用Xbrower连接Linux（RedHat5)</noteName>
+    <noteGuid>a592eb31-f499-480b-b48f-b2222497bdbe</noteGuid>
+    <noteDirName>用Xbrower连接Linux（RedHat5)</noteDirName>
+    <noteFileName>用Xbrower连接Linux（RedHat5).docx</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>3fc53c0e-416c-49f8-bb42-c4fb9c40600c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Ubuntu的两套管理网络连接的方案：</noteName>
+    <noteGuid>5af95151-0d6e-4703-b57e-d7f3f2b873b0</noteGuid>
+    <noteDirName>Ubuntu的两套管理网络连接的方案：</noteDirName>
+    <noteFileName>Ubuntu的两套管理网络连接的方案：.v</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>3fc53c0e-416c-49f8-bb42-c4fb9c40600c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Ubuntu下安装JDK图文详解</noteName>
+    <noteGuid>6ef8935e-2686-4429-8683-247d0ed1249f</noteGuid>
+    <noteDirName>Ubuntu下安装JDK图文详解</noteDirName>
+    <noteFileName>Ubuntu下安装JDK图文详解.docx</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+      <string>3fc53c0e-416c-49f8-bb42-c4fb9c40600c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Hadoop安装-1 Linux,JDK以及Eclipse的安装</noteName>
+    <noteGuid>70e86eb4-83d2-4493-944d-74c5824cd861</noteGuid>
+    <noteDirName>Hadoop安装-1 Linux,JDK以及Eclipse的安装</noteDirName>
+    <noteFileName>Hadoop安装-1 Linux,JDK以及Eclipse的安装.v</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>3fc53c0e-416c-49f8-bb42-c4fb9c40600c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Hadoop安装-2 创建用户及用户组</noteName>
+    <noteGuid>71efa0ac-7b94-4b25-a157-c6ccca93ca9a</noteGuid>
+    <noteDirName>Hadoop安装-2 创建用户及用户组</noteDirName>
+    <noteFileName>Hadoop安装-2 创建用户及用户组.docx</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>3fc53c0e-416c-49f8-bb42-c4fb9c40600c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Hadoop安装-3 安装及配置SSH</noteName>
+    <noteGuid>e5ba046d-15fd-4ded-813a-8cca99d6e407</noteGuid>
+    <noteDirName>Hadoop安装-3 安装及配置SSH</noteDirName>
+    <noteFileName>Hadoop安装-3 安装及配置SSH.docx</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>3fc53c0e-416c-49f8-bb42-c4fb9c40600c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Linux下的Oracle日志路径</noteName>
+    <noteGuid>1c58e5c1-5f4d-464e-87a7-51746ac8f09e</noteGuid>
+    <noteDirName>Linux下的Oracle日志路径</noteDirName>
+    <noteFileName>Linux下的Oracle日志路径.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+      <string>3fc53c0e-416c-49f8-bb42-c4fb9c40600c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用管理员权限运行AutoHotkey的Script</noteName>
+    <noteGuid>b24a77d4-b72b-440c-823d-9dd8ec5f05ca</noteGuid>
+    <noteDirName>使用管理员权限运行AutoHotkey的Script</noteDirName>
+    <noteFileName>使用管理员权限运行AutoHotkey的Script.v</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>64137f15-51e9-472e-a1f8-29a8142e4ec3</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>ORACLE DBLINK</noteName>
+    <noteGuid>71f77652-1682-42fb-b9d2-38f8719178be</noteGuid>
+    <noteDirName>ORACLE DBLINK</noteDirName>
+    <noteFileName>ORACLE DBLINK.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在Oracle的XMLType里查询数据</noteName>
+    <noteGuid>284009e4-726c-46be-b9dd-278ba9eacbf6</noteGuid>
+    <noteDirName>在Oracle的XMLType里查询数据</noteDirName>
+    <noteFileName>在Oracle的XMLType里查询数据.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle Spatial 索引学习小结</noteName>
+    <noteGuid>1f3d7183-41f1-4470-a0dc-b01df40dd0b3</noteGuid>
+    <noteDirName>Oracle Spatial 索引学习小结</noteDirName>
+    <noteFileName>Oracle Spatial 索引学习小结.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>用SQL语句查询Oracle Spatial里SDO_Geometry字段中的值</noteName>
+    <noteGuid>eed64174-6ad5-49d8-a4e2-4f644270fd0e</noteGuid>
+    <noteDirName>用SQL语句查询Oracle Spatial里SDO_Geometry字段中的值</noteDirName>
+    <noteFileName>用SQL语句查询Oracle Spatial里SDO_Geometry字段中的值.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用Oracle Spatial命令查询空间数据</noteName>
+    <noteGuid>e0516665-f8fc-4e8d-9194-ff9844e363fe</noteGuid>
+    <noteDirName>使用Oracle Spatial命令查询空间数据</noteDirName>
+    <noteFileName>使用Oracle Spatial命令查询空间数据.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>深入浅出oracle锁</noteName>
+    <noteGuid>bdef58fe-c52d-43ed-95b6-925c34d23f11</noteGuid>
+    <noteDirName>深入浅出oracle锁</noteDirName>
+    <noteFileName>深入浅出oracle锁.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle Spatial中SDO_Geometry详细说明</noteName>
+    <noteGuid>4c23c56b-f94a-4dad-8a77-f9e6f045e1e9</noteGuid>
+    <noteDirName>Oracle Spatial中SDO_Geometry详细说明</noteDirName>
+    <noteFileName>Oracle Spatial中SDO_Geometry详细说明.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle Spatial中的Operator操作子详细说明</noteName>
+    <noteGuid>2ada519f-3faa-41ad-8e56-5fcf1f94e657</noteGuid>
+    <noteDirName>Oracle Spatial中的Operator操作子详细说明</noteDirName>
+    <noteFileName>Oracle Spatial中的Operator操作子详细说明.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle Spatial及ArcSDE的索引</noteName>
+    <noteGuid>f305d4a9-85c0-4ac3-af34-f601fa524ab7</noteGuid>
+    <noteDirName>Oracle Spatial及ArcSDE的索引</noteDirName>
+    <noteFileName>Oracle Spatial及ArcSDE的索引.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>ArcSDE_vs._Oracle_Spatial.pdf</string>
+      <string>readOracleSpatialIndexBlob.v</string>
+      <string>测试Blob值（用16进制打开）.v</string>
+    </attachLst>
+  </NoteClass>
 </ArrayOfNoteClass>
