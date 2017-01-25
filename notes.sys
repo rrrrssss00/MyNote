@@ -783,6 +783,16 @@
     <attachLst />
   </NoteClass>
   <NoteClass>
+    <noteName>13年3月日记</noteName>
+    <noteGuid>29024b07-6e5d-4cfe-90d7-2cd22a44c6e4</noteGuid>
+    <noteDirName>13年3月日记</noteDirName>
+    <noteFileName>13年3月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
     <noteName>13年5月日记</noteName>
     <noteGuid>ff96b090-e9b1-4995-b948-f3a9dbb0a751</noteGuid>
     <noteDirName>13年5月日记</noteDirName>
@@ -823,13 +833,347 @@
     <attachLst />
   </NoteClass>
   <NoteClass>
-    <noteName>13年3月日记</noteName>
-    <noteGuid>29024b07-6e5d-4cfe-90d7-2cd22a44c6e4</noteGuid>
-    <noteDirName>13年3月日记</noteDirName>
-    <noteFileName>13年3月日记.v</noteFileName>
+    <noteName>13年9月日记</noteName>
+    <noteGuid>f252eb61-d115-461c-892a-18ed01357607</noteGuid>
+    <noteDirName>13年9月日记</noteDirName>
+    <noteFileName>13年9月日记.v</noteFileName>
     <tagGuidLst>
       <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
     </tagGuidLst>
     <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>13年10月日记</noteName>
+    <noteGuid>5e2d5b42-5d92-4a1f-a6a8-2e32a1d3d411</noteGuid>
+    <noteDirName>13年10月日记</noteDirName>
+    <noteFileName>13年10月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>13年11月日记</noteName>
+    <noteGuid>4bb129d6-8db6-4ca9-b04e-92dbd4a337d4</noteGuid>
+    <noteDirName>13年11月日记</noteDirName>
+    <noteFileName>13年11月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>13年12月日记</noteName>
+    <noteGuid>d09f1fd9-1288-40c9-97a1-7f103c7ed3c3</noteGuid>
+    <noteDirName>13年12月日记</noteDirName>
+    <noteFileName>13年12月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>14年1月日记</noteName>
+    <noteGuid>d7b48a69-cec2-4f3e-848d-ded70802fc2c</noteGuid>
+    <noteDirName>14年1月日记</noteDirName>
+    <noteFileName>14年1月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>14年2月日记</noteName>
+    <noteGuid>0e68f70f-ae39-4554-b2e9-0ce286e8b7ea</noteGuid>
+    <noteDirName>14年2月日记</noteDirName>
+    <noteFileName>14年2月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>14年3月日记</noteName>
+    <noteGuid>1780563f-b32f-4902-968b-8869d9b0e104</noteGuid>
+    <noteDirName>14年3月日记</noteDirName>
+    <noteFileName>14年3月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2014年4月日记</noteName>
+    <noteGuid>91c400b0-f93c-4bcc-b367-bb55d3537d98</noteGuid>
+    <noteDirName>2014年4月日记</noteDirName>
+    <noteFileName>2014年4月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2014年5月日记</noteName>
+    <noteGuid>b220af2c-b000-4201-8f8b-480a72874d4f</noteGuid>
+    <noteDirName>2014年5月日记</noteDirName>
+    <noteFileName>2014年5月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2015年6月日记</noteName>
+    <noteGuid>795c7f3d-dd94-46e2-aa83-31ac2741e8e7</noteGuid>
+    <noteDirName>2015年6月日记</noteDirName>
+    <noteFileName>2015年6月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2015年7月日记</noteName>
+    <noteGuid>95493f0b-cd72-400c-a411-7dc446e9e082</noteGuid>
+    <noteDirName>2015年7月日记</noteDirName>
+    <noteFileName>2015年7月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2015年8月日记</noteName>
+    <noteGuid>df146268-e0cb-42b4-b602-194346c05c55</noteGuid>
+    <noteDirName>2015年8月日记</noteDirName>
+    <noteFileName>2015年8月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2015年9月日记</noteName>
+    <noteGuid>79446096-40df-4b9b-8106-4b8c9ede0eea</noteGuid>
+    <noteDirName>2015年9月日记</noteDirName>
+    <noteFileName>2015年9月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2015年10月日记</noteName>
+    <noteGuid>18cd73ec-be51-4015-a799-8e8e3f3015de</noteGuid>
+    <noteDirName>2015年10月日记</noteDirName>
+    <noteFileName>2015年10月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2015年11月日记</noteName>
+    <noteGuid>e5dbc997-2bf8-4ca8-ad71-d73a274ddc44</noteGuid>
+    <noteDirName>2015年11月日记</noteDirName>
+    <noteFileName>2015年11月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2015年12月日记</noteName>
+    <noteGuid>e0db3197-d358-4f0a-a88d-70f12daa4237</noteGuid>
+    <noteDirName>2015年12月日记</noteDirName>
+    <noteFileName>2015年12月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年1月日记</noteName>
+    <noteGuid>2c75e5ef-32eb-4f7f-983f-129e97993ef3</noteGuid>
+    <noteDirName>2016年1月日记</noteDirName>
+    <noteFileName>2016年1月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年2月日记</noteName>
+    <noteGuid>7259e236-69ff-489a-aea8-ddc3575a16a6</noteGuid>
+    <noteDirName>2016年2月日记</noteDirName>
+    <noteFileName>2016年2月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年3月日记</noteName>
+    <noteGuid>432dde84-23aa-4e30-9bb2-29253b47b1e6</noteGuid>
+    <noteDirName>2016年3月日记</noteDirName>
+    <noteFileName>2016年3月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年4月日记</noteName>
+    <noteGuid>957d32cf-bafc-4ff1-81f0-dacde613ad8c</noteGuid>
+    <noteDirName>2016年4月日记</noteDirName>
+    <noteFileName>2016年4月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年5月日记</noteName>
+    <noteGuid>1818839b-7a16-47b5-8c95-56f068f08a74</noteGuid>
+    <noteDirName>2016年5月日记</noteDirName>
+    <noteFileName>2016年5月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年6月日记</noteName>
+    <noteGuid>bb45b0e8-766f-476d-b1c0-9e60ad7feec1</noteGuid>
+    <noteDirName>2016年6月日记</noteDirName>
+    <noteFileName>2016年6月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年7月日记</noteName>
+    <noteGuid>80b35d06-8124-4469-8d25-522a0c9f50b7</noteGuid>
+    <noteDirName>2016年7月日记</noteDirName>
+    <noteFileName>2016年7月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年8月日记</noteName>
+    <noteGuid>815df994-3bc8-45b4-81a3-a3f9728e516c</noteGuid>
+    <noteDirName>2016年8月日记</noteDirName>
+    <noteFileName>2016年8月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年9月日记</noteName>
+    <noteGuid>3978e926-f4c7-4276-9d71-b735c7c04893</noteGuid>
+    <noteDirName>2016年9月日记</noteDirName>
+    <noteFileName>2016年9月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年10月日记</noteName>
+    <noteGuid>a8e0e6d0-c0e1-4a7f-9662-43f28f1f655e</noteGuid>
+    <noteDirName>2016年10月日记</noteDirName>
+    <noteFileName>2016年10月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年11月日记</noteName>
+    <noteGuid>f587433b-66d6-4614-ae7f-ebc546e8fa3f</noteGuid>
+    <noteDirName>2016年11月日记</noteDirName>
+    <noteFileName>2016年11月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2016年12月日记</noteName>
+    <noteGuid>67a07757-dfa5-406a-9e80-5039fb2a0e7e</noteGuid>
+    <noteDirName>2016年12月日记</noteDirName>
+    <noteFileName>2016年12月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2017年1月日记</noteName>
+    <noteGuid>2e8623c6-2285-46f5-aa81-b18b190f44cd</noteGuid>
+    <noteDirName>2017年1月日记</noteDirName>
+    <noteFileName>2017年1月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>球体三维剖分&amp;编码规则</noteName>
+    <noteGuid>fbed65c6-5593-44e8-a2b0-6852cab38091</noteGuid>
+    <noteDirName>球体三维剖分&amp;编码规则</noteDirName>
+    <noteFileName>球体三维剖分&amp;编码规则.v</noteFileName>
+    <tagGuidLst>
+      <string>e579835b-a3c1-4d66-89d4-8fd4d7f53901</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>利用球体剖分瓦块构建真三维数字地球平台_王金鑫.pdf</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>用户模型驱动的遥感信息智能服务方法_杨晓霞</noteName>
+    <noteGuid>69fef444-4602-49ca-8b23-ca6cfd87496e</noteGuid>
+    <noteDirName>用户模型驱动的遥感信息智能服务方法_杨晓霞</noteDirName>
+    <noteFileName>用户模型驱动的遥感信息智能服务方法_杨晓霞.v</noteFileName>
+    <tagGuidLst>
+      <string>e579835b-a3c1-4d66-89d4-8fd4d7f53901</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>用户模型驱动的遥感信息智能服务方法_杨晓霞.pdf</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>CCD误差分析&amp;卫星几何模型&amp;区域网平差  相关</noteName>
+    <noteGuid>97056834-e14e-4218-9baa-d2195ad8a7e4</noteGuid>
+    <noteDirName>CCD误差分析&amp;卫星几何模型&amp;区域网平差  相关</noteDirName>
+    <noteFileName>CCD误差分析&amp;卫星几何模型&amp;区域网平差  相关.v</noteFileName>
+    <tagGuidLst>
+      <string>e579835b-a3c1-4d66-89d4-8fd4d7f53901</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>(含CCD误差分析)TH1卫星三线阵CCD影像自检校区域网平差_张艳.pdf</string>
+      <string>资源三号测绘卫星三线阵成像几何模型构建与精度初步验证.pdf</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>地理栅格数据的并行访问方法研究  &amp;&amp; parallel raster IO with GDAL-qincz2014TransactionsInGIS</noteName>
+    <noteGuid>60431a2c-6a5e-402c-b73c-649ea6fd9242</noteGuid>
+    <noteDirName>地理栅格数据的并行访问方法研究  &amp;&amp; parallel raster IO with GDAL-qincz2014TransactionsInGIS</noteDirName>
+    <noteFileName>地理栅格数据的并行访问方法研究  &amp;&amp; parallel raster IO with GDAL-qincz2014TransactionsInGIS.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e579835b-a3c1-4d66-89d4-8fd4d7f53901</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>parallel raster IO with GDAL-qincz2014Transact.pdf</string>
+      <string>地理栅格数据的并行访问方法研究_欧阳柳.pdf</string>
+    </attachLst>
   </NoteClass>
 </ArrayOfNoteClass>
