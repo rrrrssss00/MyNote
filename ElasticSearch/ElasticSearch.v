@@ -1,0 +1,3 @@
+ElasticSearch
+Elasticsearch是一个实时的分布式搜索和分析引擎。它可以帮助你用前所未有的速度去处理大规模数据。
+Elasticsearch是一个建立在全文搜索引擎Apache Lucene(TM)基础上的搜索引擎，
