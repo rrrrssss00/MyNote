@@ -1323,4 +1323,102 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>宝宝</noteName>
+    <noteGuid>fc4c80cf-f29a-4e72-9731-438031ab309c</noteGuid>
+    <noteDirName>宝宝</noteDirName>
+    <noteFileName>宝宝.v</noteFileName>
+    <tagGuidLst>
+      <string>3e837726-44d1-41e3-ad1f-c41c5248d4ab</string>
+      <string>a28f5589-a197-4cd6-b580-d953f56ced3f</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Google离线地图</noteName>
+    <noteGuid>14fca0e6-999b-4254-b511-5f01922f2a87</noteGuid>
+    <noteDirName>Google离线地图</noteDirName>
+    <noteFileName>Google离线地图.v</noteFileName>
+    <tagGuidLst>
+      <string>3e837726-44d1-41e3-ad1f-c41c5248d4ab</string>
+      <string>66eaa164-9c4e-41ab-97fc-2497a330a171</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>准备-法国等</noteName>
+    <noteGuid>8ada4161-5293-4927-8f6f-e7d0bd5779d5</noteGuid>
+    <noteDirName>准备-法国等</noteDirName>
+    <noteFileName>准备-法国等.v</noteFileName>
+    <tagGuidLst>
+      <string>3e837726-44d1-41e3-ad1f-c41c5248d4ab</string>
+      <string>66eaa164-9c4e-41ab-97fc-2497a330a171</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>签证及护照</noteName>
+    <noteGuid>1ddd223f-e2f4-4a92-914b-75e68a6310e7</noteGuid>
+    <noteDirName>签证及护照</noteDirName>
+    <noteFileName>签证及护照.v</noteFileName>
+    <tagGuidLst>
+      <string>3e837726-44d1-41e3-ad1f-c41c5248d4ab</string>
+      <string>66eaa164-9c4e-41ab-97fc-2497a330a171</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>机票等</noteName>
+    <noteGuid>7586fb14-185d-4f55-a1ce-a4a59198c6d6</noteGuid>
+    <noteDirName>机票等</noteDirName>
+    <noteFileName>机票等.v</noteFileName>
+    <tagGuidLst>
+      <string>3e837726-44d1-41e3-ad1f-c41c5248d4ab</string>
+      <string>66eaa164-9c4e-41ab-97fc-2497a330a171</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>巴塞罗那</noteName>
+    <noteGuid>0715b484-8246-4924-b53a-7bbcdfa2db35</noteGuid>
+    <noteDirName>巴塞罗那</noteDirName>
+    <noteFileName>巴塞罗那.v</noteFileName>
+    <tagGuidLst>
+      <string>3e837726-44d1-41e3-ad1f-c41c5248d4ab</string>
+      <string>66eaa164-9c4e-41ab-97fc-2497a330a171</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>巴塞罗那-购物</noteName>
+    <noteGuid>1dcb0a22-b000-4961-9590-740bb392ddbe</noteGuid>
+    <noteDirName>巴塞罗那-购物</noteDirName>
+    <noteFileName>巴塞罗那-购物.v</noteFileName>
+    <tagGuidLst>
+      <string>3e837726-44d1-41e3-ad1f-c41c5248d4ab</string>
+      <string>66eaa164-9c4e-41ab-97fc-2497a330a171</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>[我是推拿君M]S01E01让我来拯救大家的脖子</noteName>
+    <noteGuid>70d07869-9af1-4897-88ec-c1fda297e5a4</noteGuid>
+    <noteDirName>[我是推拿君M]S01E01让我来拯救大家的脖子</noteDirName>
+    <noteFileName>[我是推拿君M]S01E01让我来拯救大家的脖子.docx</noteFileName>
+    <tagGuidLst>
+      <string>3e837726-44d1-41e3-ad1f-c41c5248d4ab</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>VNC--远程桌面软件</noteName>
+    <noteGuid>27ec0b48-6977-4b52-ace9-eb8de99ccdbf</noteGuid>
+    <noteDirName>VNC--远程桌面软件</noteDirName>
+    <noteFileName>VNC--远程桌面软件.v</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
