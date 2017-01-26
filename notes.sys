@@ -1880,4 +1880,503 @@
       <string>测试Blob值（用16进制打开）.v</string>
     </attachLst>
   </NoteClass>
+  <NoteClass>
+    <noteName>使用Oracle内存机制优化ArcSDE图层空间查询实验</noteName>
+    <noteGuid>8815c7d8-bc9f-410b-a5a1-0335930fb348</noteGuid>
+    <noteDirName>使用Oracle内存机制优化ArcSDE图层空间查询实验</noteDirName>
+    <noteFileName>使用Oracle内存机制优化ArcSDE图层空间查询实验.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle 12c In-Memory Option</noteName>
+    <noteGuid>5bee0e94-bc13-46b0-b9cb-ba62991ac7ff</noteGuid>
+    <noteDirName>Oracle 12c In-Memory Option</noteDirName>
+    <noteFileName>Oracle 12c In-Memory Option.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle数据库中序列用法讲解</noteName>
+    <noteGuid>179d4faa-ef13-49f3-bcaa-b9302b2ec7a9</noteGuid>
+    <noteDirName>Oracle数据库中序列用法讲解</noteDirName>
+    <noteFileName>Oracle数据库中序列用法讲解.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle 使用SQL 查看表结构和索引，以及Dual表的用法</noteName>
+    <noteGuid>8eb39ee5-60f1-4df7-8225-7b27a81c51f5</noteGuid>
+    <noteDirName>Oracle 使用SQL 查看表结构和索引，以及Dual表的用法</noteDirName>
+    <noteFileName>Oracle 使用SQL 查看表结构和索引，以及Dual表的用法.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>用SQL语句读写Oracle Spaital的SDO_GEOMETRY对象</noteName>
+    <noteGuid>a83d6e62-2b23-4a73-86f6-3cf28ddf42b4</noteGuid>
+    <noteDirName>用SQL语句读写Oracle Spaital的SDO_GEOMETRY对象</noteDirName>
+    <noteFileName>用SQL语句读写Oracle Spaital的SDO_GEOMETRY对象.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>.net(C#)访问Oracle数据库的几种免安装组件的对比</noteName>
+    <noteGuid>0f004a58-a407-4d7c-8600-8295b89d30a6</noteGuid>
+    <noteDirName>.net(C#)访问Oracle数据库的几种免安装组件的对比</noteDirName>
+    <noteFileName>.net(C#)访问Oracle数据库的几种免安装组件的对比.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用C#操作Oracle Spatial的SDO_GEOMETRY对像（读取和写入）</noteName>
+    <noteGuid>187f4daf-8b94-4222-91c8-a35cb291db72</noteGuid>
+    <noteDirName>使用C#操作Oracle Spatial的SDO_GEOMETRY对像（读取和写入）</noteDirName>
+    <noteFileName>使用C#操作Oracle Spatial的SDO_GEOMETRY对像（读取和写入）.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>ConsoleApplicationUdt.zip</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用C#操作Oracle Spatial的SDO_GEOMETRY对像（读取和写入）--方法2</noteName>
+    <noteGuid>faf2e394-d825-49bb-b069-89dd2954e8aa</noteGuid>
+    <noteDirName>使用C#操作Oracle Spatial的SDO_GEOMETRY对像（读取和写入）--方法2</noteDirName>
+    <noteFileName>使用C#操作Oracle Spatial的SDO_GEOMETRY对像（读取和写入）--方法2.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在Oracle中创建空间索引以及遇到的常见ORA错误</noteName>
+    <noteGuid>49cab2f9-3d66-46a2-80fb-a9b071b39dd5</noteGuid>
+    <noteDirName>在Oracle中创建空间索引以及遇到的常见ORA错误</noteDirName>
+    <noteFileName>在Oracle中创建空间索引以及遇到的常见ORA错误.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>ORACLE_Spatial空间数据模型介绍总结版，较全</noteName>
+    <noteGuid>6b0ff996-3638-4325-8f0a-8c8ad5661fa1</noteGuid>
+    <noteDirName>ORACLE_Spatial空间数据模型介绍总结版，较全</noteDirName>
+    <noteFileName>ORACLE_Spatial空间数据模型介绍总结版，较全.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>ORACLE_Spatial空间数据模型介绍.pdf</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>Linux的Oracle下配置用SQL语句操作SDE</noteName>
+    <noteGuid>297e4b7b-6137-483c-b4c1-0ae2fa027eff</noteGuid>
+    <noteDirName>Linux的Oracle下配置用SQL语句操作SDE</noteDirName>
+    <noteFileName>Linux的Oracle下配置用SQL语句操作SDE.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JDBC连接Oracle数据库时出现的ORA-12505错误及解决办法</noteName>
+    <noteGuid>6e5bb9fc-5804-43e3-ab26-59b6451d87ac</noteGuid>
+    <noteDirName>JDBC连接Oracle数据库时出现的ORA-12505错误及解决办法</noteDirName>
+    <noteFileName>JDBC连接Oracle数据库时出现的ORA-12505错误及解决办法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle 查看列类型为Collection的对象内部的值</noteName>
+    <noteGuid>dbd79438-1cbd-47ab-b400-1e197bc38d6a</noteGuid>
+    <noteDirName>Oracle 查看列类型为Collection的对象内部的值</noteDirName>
+    <noteFileName>Oracle 查看列类型为Collection的对象内部的值.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle判断字段值是否为数字</noteName>
+    <noteGuid>277aac92-2c12-4105-8301-dafffa52707f</noteGuid>
+    <noteDirName>Oracle判断字段值是否为数字</noteDirName>
+    <noteFileName>Oracle判断字段值是否为数字.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle Spatial创建空间索引时遇到的ORA-29855问题</noteName>
+    <noteGuid>579bd5fa-eeba-4a09-85b8-29f4c2359bc0</noteGuid>
+    <noteDirName>Oracle Spatial创建空间索引时遇到的ORA-29855问题</noteDirName>
+    <noteFileName>Oracle Spatial创建空间索引时遇到的ORA-29855问题.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>MongoDB的地理空间数据存储、空间索引以及空间查询</noteName>
+    <noteGuid>81c6031e-8b0b-4370-ab23-505647ca8a97</noteGuid>
+    <noteDirName>MongoDB的地理空间数据存储、空间索引以及空间查询</noteDirName>
+    <noteFileName>MongoDB的地理空间数据存储、空间索引以及空间查询.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>MongoDB设置访问权限、设置用户</noteName>
+    <noteGuid>9f7833b8-e3db-423a-960f-167a3f78babf</noteGuid>
+    <noteDirName>MongoDB设置访问权限、设置用户</noteDirName>
+    <noteFileName>MongoDB设置访问权限、设置用户.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>MongoDB的DB,Collection,和记录</noteName>
+    <noteGuid>3e099b7f-0658-4eff-a60e-a2758259bce7</noteGuid>
+    <noteDirName>MongoDB的DB,Collection,和记录</noteDirName>
+    <noteFileName>MongoDB的DB,Collection,和记录.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>8篇MongoDB教程快速学会入门 第1篇 基础入门</noteName>
+    <noteGuid>7159a506-a8d5-4df0-b5d9-41838428ff2d</noteGuid>
+    <noteDirName>8篇MongoDB教程快速学会入门 第1篇 基础入门</noteDirName>
+    <noteFileName>8篇MongoDB教程快速学会入门 第1篇 基础入门.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>8篇MongoDB教程快速学会入门第2篇-细说增删查改</noteName>
+    <noteGuid>c0c8a28d-f991-43bb-9572-6c81ce47d6f0</noteGuid>
+    <noteDirName>8篇MongoDB教程快速学会入门第2篇-细说增删查改</noteDirName>
+    <noteFileName>8篇MongoDB教程快速学会入门第2篇-细说增删查改.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>8篇MongoDB教程快速学会入门第3篇-细说高级操作</noteName>
+    <noteGuid>038ef3c5-3dd3-48ec-be23-278a013601e4</noteGuid>
+    <noteDirName>8篇MongoDB教程快速学会入门第3篇-细说高级操作</noteDirName>
+    <noteFileName>8篇MongoDB教程快速学会入门第3篇-细说高级操作.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>8篇MongoDB教程快速学会入门第4篇-索引操作</noteName>
+    <noteGuid>f906e84e-4fd3-4139-96ce-54803864f827</noteGuid>
+    <noteDirName>8篇MongoDB教程快速学会入门第4篇-索引操作</noteDirName>
+    <noteFileName>8篇MongoDB教程快速学会入门第4篇-索引操作.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>8篇MongoDB教程快速学会入门 第5篇 主从复制</noteName>
+    <noteGuid>fbb45293-caab-48eb-8598-077325d1c382</noteGuid>
+    <noteDirName>8篇MongoDB教程快速学会入门 第5篇 主从复制</noteDirName>
+    <noteFileName>8篇MongoDB教程快速学会入门 第5篇 主从复制.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>8篇MongoDB教程快速学会入门第6篇-数据库分片技术</noteName>
+    <noteGuid>47e51452-4151-4907-9601-05bb88be893a</noteGuid>
+    <noteDirName>8篇MongoDB教程快速学会入门第6篇-数据库分片技术</noteDirName>
+    <noteFileName>8篇MongoDB教程快速学会入门第6篇-数据库分片技术.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>8篇MongoDB教程快速学会入门第7篇-运维技术</noteName>
+    <noteGuid>0c261e0b-c158-475f-8949-a30d704c81b3</noteGuid>
+    <noteDirName>8篇MongoDB教程快速学会入门第7篇-运维技术</noteDirName>
+    <noteFileName>8篇MongoDB教程快速学会入门第7篇-运维技术.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>8篇MongoDB教程快速学会入门第8篇-数据库驱动</noteName>
+    <noteGuid>fd915f94-0654-4a07-85d0-7fb4b959c867</noteGuid>
+    <noteDirName>8篇MongoDB教程快速学会入门第8篇-数据库驱动</noteDirName>
+    <noteFileName>8篇MongoDB教程快速学会入门第8篇-数据库驱动.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用C#对MongoDB中的数据进行查询修改等操作</noteName>
+    <noteGuid>0e34dfd5-8d74-4525-8fb9-f9958e51ea91</noteGuid>
+    <noteDirName>使用C#对MongoDB中的数据进行查询修改等操作</noteDirName>
+    <noteFileName>使用C#对MongoDB中的数据进行查询修改等操作.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#连接MongoDB--杂</noteName>
+    <noteGuid>6c0c4d4a-3a55-4962-877c-91fd8d5f9867</noteGuid>
+    <noteDirName>C#连接MongoDB--杂</noteDirName>
+    <noteFileName>C#连接MongoDB--杂.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>MongoDB索引的基本操作</noteName>
+    <noteGuid>9d80f8e0-c0f2-48e9-86d5-06f069ca0851</noteGuid>
+    <noteDirName>MongoDB索引的基本操作</noteDirName>
+    <noteFileName>MongoDB索引的基本操作.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>MongoDB存储空间数据</noteName>
+    <noteGuid>ad674a2e-7a06-42c0-9213-fef751d75039</noteGuid>
+    <noteDirName>MongoDB存储空间数据</noteDirName>
+    <noteFileName>MongoDB存储空间数据.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>MongoDB存取二进制Field(类似Blob)</noteName>
+    <noteGuid>ada73647-523c-4f9f-b13b-45abe8f6f9ad</noteGuid>
+    <noteDirName>MongoDB存取二进制Field(类似Blob)</noteDirName>
+    <noteFileName>MongoDB存取二进制Field(类似Blob).v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6f80872a-5174-4ce9-8798-40bad5e60bb5</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#读取DBF文件</noteName>
+    <noteGuid>d9551e58-6d18-4925-b748-d226c59c5703</noteGuid>
+    <noteDirName>C#读取DBF文件</noteDirName>
+    <noteFileName>C#读取DBF文件.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>c#对dbf（shp属性表）的操作.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>DBTools</noteName>
+    <noteGuid>71f7a2e6-08a6-4c77-aaea-9b0a36ed2e37</noteGuid>
+    <noteDirName>DBTools</noteDirName>
+    <noteFileName>DBTools.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle查询表空间及数据文件应用情况,表空间添加数据文件</noteName>
+    <noteGuid>6daddd8a-eec1-4a36-bca3-2565aa5c8042</noteGuid>
+    <noteDirName>Oracle查询表空间及数据文件应用情况,表空间添加数据文件</noteDirName>
+    <noteFileName>Oracle查询表空间及数据文件应用情况,表空间添加数据文件.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle 常用命令</noteName>
+    <noteGuid>efbea8d0-67ba-409c-a2f5-9e20310a4218</noteGuid>
+    <noteDirName>Oracle 常用命令</noteDirName>
+    <noteFileName>Oracle 常用命令.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>SQL语句中的RowNum</noteName>
+    <noteGuid>7e19eeea-9bb1-45fe-8563-fadeb15919e6</noteGuid>
+    <noteDirName>SQL语句中的RowNum</noteDirName>
+    <noteFileName>SQL语句中的RowNum.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>数据库约束关系</noteName>
+    <noteGuid>eca06950-32b6-4909-a82d-7d6ca8b428a8</noteGuid>
+    <noteDirName>数据库约束关系</noteDirName>
+    <noteFileName>数据库约束关系.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>.net中使用ODP.net访问Oracle数据库（无客户端部署方法）</noteName>
+    <noteGuid>a7ce8ebd-9d68-4191-99f8-fc7f82e4fc9b</noteGuid>
+    <noteDirName>.net中使用ODP.net访问Oracle数据库（无客户端部署方法）</noteDirName>
+    <noteFileName>.net中使用ODP.net访问Oracle数据库（无客户端部署方法）.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#操作XML数据库类型OracleXMLType</noteName>
+    <noteGuid>a8ada1be-638e-49de-9c7b-087f928d7332</noteGuid>
+    <noteDirName>C#操作XML数据库类型OracleXMLType</noteDirName>
+    <noteFileName>C#操作XML数据库类型OracleXMLType.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>OracleCommand的Parameters</noteName>
+    <noteGuid>faf92651-6c49-4fd2-bcbd-dc47e83b0ead</noteGuid>
+    <noteDirName>OracleCommand的Parameters</noteDirName>
+    <noteFileName>OracleCommand的Parameters.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用ArcGIS Engine+WebService在客户机上不安装Engine Runtime实现编辑SDE图层</noteName>
+    <noteGuid>84d84d78-936f-41f1-9f74-e1064ce1af5f</noteGuid>
+    <noteDirName>使用ArcGIS Engine+WebService在客户机上不安装Engine Runtime实现编辑SDE图层</noteDirName>
+    <noteFileName>使用ArcGIS Engine+WebService在客户机上不安装Engine Runtime实现编辑SDE图层.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>SdeEditWebService.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>配置PostgreSQL实现TCPIP访问连接</noteName>
+    <noteGuid>4ba824fb-f21a-4ea8-b0a2-9dea21f76cc8</noteGuid>
+    <noteDirName>配置PostgreSQL实现TCPIP访问连接</noteDirName>
+    <noteFileName>配置PostgreSQL实现TCPIP访问连接.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
