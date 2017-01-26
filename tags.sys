@@ -120,4 +120,8 @@
     <tagName>postgreSQL</tagName>
     <tagGuid>28fa45f4-ca51-4c6d-9581-cb497cd3bb9e</tagGuid>
   </TagClass>
+  <TagClass>
+    <tagName>opencv</tagName>
+    <tagGuid>5e2e313b-bc08-4282-8fd0-71a29e210a56</tagGuid>
+  </TagClass>
 </ArrayOfTagClass>

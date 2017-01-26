@@ -2531,4 +2531,431 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>geohash算法原理及实现方式</noteName>
+    <noteGuid>88dff0e4-1f2c-4632-bd3b-cdd8f249ffac</noteGuid>
+    <noteDirName>geohash算法原理及实现方式</noteDirName>
+    <noteFileName>geohash算法原理及实现方式.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>SQLite内存数据库模式以及与文件形式的相互导出</noteName>
+    <noteGuid>7cd10ac1-b001-453d-8b7b-8148adf7cabe</noteGuid>
+    <noteDirName>SQLite内存数据库模式以及与文件形式的相互导出</noteDirName>
+    <noteFileName>SQLite内存数据库模式以及与文件形式的相互导出.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在C#中连接及操作Redis数据库</noteName>
+    <noteGuid>98146469-2c49-45d4-bb74-c50f76862dc1</noteGuid>
+    <noteDirName>在C#中连接及操作Redis数据库</noteDirName>
+    <noteFileName>在C#中连接及操作Redis数据库.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>R树相关算法</noteName>
+    <noteGuid>e49a6d55-15c5-4f80-9e9f-51cbdf2a88dc</noteGuid>
+    <noteDirName>R树相关算法</noteDirName>
+    <noteFileName>R树相关算法.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>线性可排序四叉树基本算法</noteName>
+    <noteGuid>b1fccd8e-af2b-4174-9b97-c6aab64fc8ff</noteGuid>
+    <noteDirName>线性可排序四叉树基本算法</noteDirName>
+    <noteFileName>线性可排序四叉树基本算法.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>线性可排序四叉树基本算法.docx</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>postgreSQL中新建、查看和删除索引</noteName>
+    <noteGuid>fbcb6080-43b3-449f-ae52-6c10d359d691</noteGuid>
+    <noteDirName>postgreSQL中新建、查看和删除索引</noteDirName>
+    <noteFileName>postgreSQL中新建、查看和删除索引.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>28fa45f4-ca51-4c6d-9581-cb497cd3bb9e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Hash表算法的详细解析</noteName>
+    <noteGuid>eec84101-ca1c-4408-b00a-c33e17e85d3c</noteGuid>
+    <noteDirName>Hash表算法的详细解析</noteDirName>
+    <noteFileName>Hash表算法的详细解析.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>从Trie树（字典树）谈到后缀树</noteName>
+    <noteGuid>2b0ec2bc-c8c1-4ea6-94eb-ef488f9e0595</noteGuid>
+    <noteDirName>从Trie树（字典树）谈到后缀树</noteDirName>
+    <noteFileName>从Trie树（字典树）谈到后缀树.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>教你如何迅速秒杀掉：99%的海量数据处理面试题</noteName>
+    <noteGuid>5dfb30cd-c4c3-45ae-af67-968b73aecdc8</noteGuid>
+    <noteDirName>教你如何迅速秒杀掉：99%的海量数据处理面试题</noteDirName>
+    <noteFileName>教你如何迅速秒杀掉：99%的海量数据处理面试题.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>7个示例科普CPU Cache</noteName>
+    <noteGuid>b8186a14-998d-46d7-8948-4f73b7bcfd1c</noteGuid>
+    <noteDirName>7个示例科普CPU Cache</noteDirName>
+    <noteFileName>7个示例科普CPU Cache.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>hashcash方案</noteName>
+    <noteGuid>4744eb8b-6b4e-4684-bd44-f975a382dc3c</noteGuid>
+    <noteDirName>hashcash方案</noteDirName>
+    <noteFileName>hashcash方案.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>最近邻算法的实现 k-d tree及其优化查找算法Best Bin First</noteName>
+    <noteGuid>09845e16-b9f8-40af-9a1b-349f54be2626</noteGuid>
+    <noteDirName>最近邻算法的实现 k-d tree及其优化查找算法Best Bin First</noteDirName>
+    <noteFileName>最近邻算法的实现 k-d tree及其优化查找算法Best Bin First.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>从K近邻算法、距离度量谈到KD树、SIFT+BBF算法</noteName>
+    <noteGuid>8ac1937e-7b15-45ec-97e0-a0ad515a5f89</noteGuid>
+    <noteDirName>从K近邻算法、距离度量谈到KD树、SIFT+BBF算法</noteDirName>
+    <noteFileName>从K近邻算法、距离度量谈到KD树、SIFT+BBF算法.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Bezier曲线，曲面的原理和算法</noteName>
+    <noteGuid>a337c06c-df5c-4e1f-9a5f-68f0e37d8d4d</noteGuid>
+    <noteDirName>Bezier曲线，曲面的原理和算法</noteDirName>
+    <noteFileName>Bezier曲线，曲面的原理和算法.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Huffman 编码压缩算法</noteName>
+    <noteGuid>71bba46d-8e1e-43be-8ed3-17ae12e73437</noteGuid>
+    <noteDirName>Huffman 编码压缩算法</noteDirName>
+    <noteFileName>Huffman 编码压缩算法.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>算法优化 rgb向yuv的转化最优算法,(算法优化思路非常值得借鉴)</noteName>
+    <noteGuid>9d429889-fe6e-4cdc-91d3-ede83d1079c3</noteGuid>
+    <noteDirName>算法优化 rgb向yuv的转化最优算法,(算法优化思路非常值得借鉴)</noteDirName>
+    <noteFileName>算法优化 rgb向yuv的转化最优算法,(算法优化思路非常值得借鉴).v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>基于小波变换的图像压缩--1 基础介绍</noteName>
+    <noteGuid>6a5a64f5-a9bd-4763-857c-199cb5f71d6f</noteGuid>
+    <noteDirName>基于小波变换的图像压缩--1 基础介绍</noteDirName>
+    <noteFileName>基于小波变换的图像压缩--1 基础介绍.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>GDAL并行I/O</noteName>
+    <noteGuid>e951aac3-fd29-4137-844b-b01c2785c78c</noteGuid>
+    <noteDirName>GDAL并行IO</noteDirName>
+    <noteFileName>GDAL并行IO.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>parallel raster IO with GDAL-qincz2014TransactionsInGIS.pdf</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>资源三号测绘卫星自动云检测算法</noteName>
+    <noteGuid>77870679-a80c-4ef4-84ae-582e6eae6129</noteGuid>
+    <noteDirName>资源三号测绘卫星自动云检测算法</noteDirName>
+    <noteFileName>资源三号测绘卫星自动云检测算法.v</noteFileName>
+    <tagGuidLst>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>资源三号测绘卫星自动云检测.pdf</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>离散点&amp;网格生成等高线和等高面的方法-1 基本算法流程</noteName>
+    <noteGuid>04c89a13-292a-4346-89ed-58dff27dcd9c</noteGuid>
+    <noteDirName>离散点&amp;网格生成等高线和等高面的方法-1 基本算法流程</noteDirName>
+    <noteFileName>离散点&amp;网格生成等高线和等高面的方法-1 基本算法流程.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>离散点&amp;网格生成等高线和等高面的方法-2 WIKI算法介绍</noteName>
+    <noteGuid>0107dc8a-4664-47d4-8c7b-06e5666a2b25</noteGuid>
+    <noteDirName>离散点&amp;网格生成等高线和等高面的方法-2 WIKI算法介绍</noteDirName>
+    <noteFileName>离散点&amp;网格生成等高线和等高面的方法-2 WIKI算法介绍.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>离散点&amp;网格生成等高线和等高面的方法-3 算法实现</noteName>
+    <noteGuid>ea891c7b-a271-4d76-9430-14a65f2334a6</noteGuid>
+    <noteDirName>离散点&amp;网格生成等高线和等高面的方法-3 算法实现</noteDirName>
+    <noteFileName>离散点&amp;网格生成等高线和等高面的方法-3 算法实现.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>离散点&amp;网格生成等高线和等高面的方法-4 等值线的生成以及等值线之间区域的填充</noteName>
+    <noteGuid>600a2303-b229-4e9e-b50d-ff797f07be5b</noteGuid>
+    <noteDirName>离散点&amp;网格生成等高线和等高面的方法-4 等值线的生成以及等值线之间区域的填充</noteDirName>
+    <noteFileName>离散点&amp;网格生成等高线和等高面的方法-4 等值线的生成以及等值线之间区域的填充.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>ContourLineByPntsClass.cs</string>
+      <string>等值线追踪生成等值面过程中的算法策略.pdf</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#读取Maplab的ColorMap，以及一些常用的ColorMap示例</noteName>
+    <noteGuid>1c534ac4-64bb-4dfb-954f-93eb52388909</noteGuid>
+    <noteDirName>C#读取Maplab的ColorMap，以及一些常用的ColorMap示例</noteDirName>
+    <noteFileName>C#读取Maplab的ColorMap，以及一些常用的ColorMap示例.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>colormaps.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#下的克里金插值算法</noteName>
+    <noteGuid>f7ed3cd3-2f7b-45f2-9376-f23312f467aa</noteGuid>
+    <noteDirName>C#下的克里金插值算法</noteDirName>
+    <noteFileName>C#下的克里金插值算法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>KrigInterp_wyz.rar</string>
+      <string>克里金插值及DEM等高线生成.zip</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>Delauney三角网构建算法</noteName>
+    <noteGuid>580db188-aed0-46af-baa1-8231ef3b63bb</noteGuid>
+    <noteDirName>Delauney三角网构建算法</noteDirName>
+    <noteFileName>Delauney三角网构建算法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>DelaunayTriangulator.zip</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用重心坐标判断点是否在三角形内，并进行三角形线性插值</noteName>
+    <noteGuid>1328e7ec-0707-4c89-9cb1-2989eeb820bb</noteGuid>
+    <noteDirName>使用重心坐标判断点是否在三角形内，并进行三角形线性插值</noteDirName>
+    <noteFileName>使用重心坐标判断点是否在三角形内，并进行三角形线性插值.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#的OpenGL和D3d</noteName>
+    <noteGuid>44d6837a-5c15-4a40-b233-18b63d93e003</noteGuid>
+    <noteDirName>C#的OpenGL和D3d</noteDirName>
+    <noteFileName>C#的OpenGL和D3d.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>a79a5802-9fbc-4947-85f2-fcaec04f85f8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>学习OpenCV-1 EmguCV的下载和使用</noteName>
+    <noteGuid>b6775fef-bca8-4e91-bc89-6b655441f6aa</noteGuid>
+    <noteDirName>学习OpenCV-1 EmguCV的下载和使用</noteDirName>
+    <noteFileName>学习OpenCV-1 EmguCV的下载和使用.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>5e2e313b-bc08-4282-8fd0-71a29e210a56</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>学习OpenCV-2  EmguCV的Hello world（V3.1）</noteName>
+    <noteGuid>4652102a-cf62-4442-b5d4-a8b2f9c77bb5</noteGuid>
+    <noteDirName>学习OpenCV-2  EmguCV的Hello world（V3.1）</noteDirName>
+    <noteFileName>学习OpenCV-2  EmguCV的Hello world（V3.1）.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>5e2e313b-bc08-4282-8fd0-71a29e210a56</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>学习OpenCV-3 - EmguCV调用摄像头，以及人脸识别（V3.1）</noteName>
+    <noteGuid>850318fb-ebf7-485c-ae9c-dcb73940bcce</noteGuid>
+    <noteDirName>学习OpenCV-3 - EmguCV调用摄像头，以及人脸识别（V3.1）</noteDirName>
+    <noteFileName>学习OpenCV-3 - EmguCV调用摄像头，以及人脸识别（V3.1）.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>5e2e313b-bc08-4282-8fd0-71a29e210a56</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>学习OpenCV-5 - 批量给Mat里的元素赋值</noteName>
+    <noteGuid>6932b170-96e3-43f7-8257-fc86a759d392</noteGuid>
+    <noteDirName>学习OpenCV-5 - 批量给Mat里的元素赋值</noteDirName>
+    <noteFileName>学习OpenCV-5 - 批量给Mat里的元素赋值.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>5e2e313b-bc08-4282-8fd0-71a29e210a56</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用NetTopologySuite.dll实现WKT与WKB格式之间的相互转换</noteName>
+    <noteGuid>d8155760-1aec-47d5-a852-e6c8de52dad1</noteGuid>
+    <noteDirName>使用NetTopologySuite.dll实现WKT与WKB格式之间的相互转换</noteDirName>
+    <noteFileName>使用NetTopologySuite.dll实现WKT与WKB格式之间的相互转换.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>学习OpenCV-4 - 一些简单的示例1</noteName>
+    <noteGuid>015dd55c-b9a1-4daf-8d92-dcfbfd31c15b</noteGuid>
+    <noteDirName>学习OpenCV-4 - 一些简单的示例1</noteDirName>
+    <noteFileName>学习OpenCV-4 - 一些简单的示例1.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>5e2e313b-bc08-4282-8fd0-71a29e210a56</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>TestOpenCv1.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>学习OpenCV-7 - 一些简单示例2</noteName>
+    <noteGuid>bd722b26-7604-438d-9d39-3967b6690ab1</noteGuid>
+    <noteDirName>学习OpenCV-7 - 一些简单示例2</noteDirName>
+    <noteFileName>学习OpenCV-7 - 一些简单示例2.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>5e2e313b-bc08-4282-8fd0-71a29e210a56</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>Form1.cs</string>
+    </attachLst>
+  </NoteClass>
 </ArrayOfNoteClass>
