@@ -2379,4 +2379,156 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>Oracle分区表</noteName>
+    <noteGuid>f7287061-cf0b-439b-996b-74a890376091</noteGuid>
+    <noteDirName>Oracle分区表</noteDirName>
+    <noteFileName>Oracle分区表.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>数据库设计参考-吉威</noteName>
+    <noteGuid>3d9516ba-ce86-4730-ae59-d48f5d5f1f70</noteGuid>
+    <noteDirName>数据库设计参考-吉威</noteDirName>
+    <noteFileName>数据库设计参考-吉威.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>航遥影像处理支撑数据库建设项目数据库维护与管理系统_数据库设计_20130930.docx</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>文献学习笔记-空间索引</noteName>
+    <noteGuid>fcfa6047-8d1d-478a-bd52-755144489631</noteGuid>
+    <noteDirName>文献学习笔记-空间索引</noteDirName>
+    <noteFileName>文献学习笔记-空间索引.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle 段(segment)区(extent)块(block)</noteName>
+    <noteGuid>788c65ee-8e1a-4335-b9b6-5e42625b1863</noteGuid>
+    <noteDirName>Oracle 段(segment)区(extent)块(block)</noteDirName>
+    <noteFileName>Oracle 段(segment)区(extent)块(block).v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>ORACLE 12C PDB 维护基础介绍</noteName>
+    <noteGuid>9954d28f-09ce-48c4-9bcb-70b767a1566f</noteGuid>
+    <noteDirName>ORACLE 12C PDB 维护基础介绍</noteDirName>
+    <noteFileName>ORACLE 12C PDB 维护基础介绍.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>PostGIS数据的导入</noteName>
+    <noteGuid>748e55fa-1cd1-491c-8bb1-253274be4005</noteGuid>
+    <noteDirName>PostGIS数据的导入</noteDirName>
+    <noteFileName>PostGIS数据的导入.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>28fa45f4-ca51-4c6d-9581-cb497cd3bb9e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>PostGIS中的矢量字段存储格式与转换&amp;使用SQL语句读取和写入PostGIS表</noteName>
+    <noteGuid>fc780ffd-c7e5-452c-b985-c557918e1bdb</noteGuid>
+    <noteDirName>PostGIS中的矢量字段存储格式与转换&amp;使用SQL语句读取和写入PostGIS表</noteDirName>
+    <noteFileName>PostGIS中的矢量字段存储格式与转换&amp;使用SQL语句读取和写入PostGIS表.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>28fa45f4-ca51-4c6d-9581-cb497cd3bb9e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>PostGIS中图层的坐标系</noteName>
+    <noteGuid>196871eb-1c1b-444a-9a3b-e9e72d1a7934</noteGuid>
+    <noteDirName>PostGIS中图层的坐标系</noteDirName>
+    <noteFileName>PostGIS中图层的坐标系.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>28fa45f4-ca51-4c6d-9581-cb497cd3bb9e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial连接PostGIS图层</noteName>
+    <noteGuid>43a1d68a-cb95-431a-960a-349dd471e68a</noteGuid>
+    <noteDirName>DotSpatial连接PostGIS图层</noteDirName>
+    <noteFileName>DotSpatial连接PostGIS图层.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+      <string>28fa45f4-ca51-4c6d-9581-cb497cd3bb9e</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>PostGISLayer.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>PostGIS ERROR function addgeometrycolumn is not unique</noteName>
+    <noteGuid>22f807f1-5a4d-4f66-96a1-c53485270e25</noteGuid>
+    <noteDirName>PostGIS ERROR function addgeometrycolumn is not unique</noteDirName>
+    <noteFileName>PostGIS ERROR function addgeometrycolumn is not unique.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>28fa45f4-ca51-4c6d-9581-cb497cd3bb9e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>空间索引-GeoHash 核心原理</noteName>
+    <noteGuid>5be99cc7-ebe8-41e8-bbd9-f18cf3576e05</noteGuid>
+    <noteDirName>空间索引-GeoHash 核心原理</noteDirName>
+    <noteFileName>空间索引-GeoHash 核心原理.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>深入浅出空间索引-1-为什么需要空间索引</noteName>
+    <noteGuid>3a79f161-3ed4-413d-bdd7-428120121e9a</noteGuid>
+    <noteDirName>深入浅出空间索引-1-为什么需要空间索引</noteDirName>
+    <noteFileName>深入浅出空间索引-1-为什么需要空间索引.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>深入浅出空间索引-2-网格索引</noteName>
+    <noteGuid>1f66b664-3af6-431d-bffb-d2a65b67c527</noteGuid>
+    <noteDirName>深入浅出空间索引-2-网格索引</noteDirName>
+    <noteFileName>深入浅出空间索引-2-网格索引.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>

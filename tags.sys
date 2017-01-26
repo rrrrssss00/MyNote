@@ -116,4 +116,8 @@
     <tagName>≈‡—µ</tagName>
     <tagGuid>2e818d58-169d-4a86-97eb-2124ad0bf817</tagGuid>
   </TagClass>
+  <TagClass>
+    <tagName>postgreSQL</tagName>
+    <tagGuid>28fa45f4-ca51-4c6d-9581-cb497cd3bb9e</tagGuid>
+  </TagClass>
 </ArrayOfTagClass>
