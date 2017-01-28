@@ -3414,4 +3414,323 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>基于GDAL的实际影像边界提取</noteName>
+    <noteGuid>f933ea91-6698-48fa-a169-6f55c151960b</noteGuid>
+    <noteDirName>基于GDAL的实际影像边界提取</noteDirName>
+    <noteFileName>基于GDAL的实际影像边界提取.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>EdgeExtract.cs</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>关于流传的 WGS-84 至 GCJ-02 转换算法</noteName>
+    <noteGuid>daed1b77-8b06-43e1-8669-ac9e2be02e7b</noteGuid>
+    <noteDirName>关于流传的 WGS-84 至 GCJ-02 转换算法</noteDirName>
+    <noteFileName>关于流传的 WGS-84 至 GCJ-02 转换算法.docx</noteFileName>
+    <tagGuidLst>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Dotspatial.Projection学习</noteName>
+    <noteGuid>be16046a-c501-4f63-852c-8555a4ac2d84</noteGuid>
+    <noteDirName>Dotspatial.Projection学习</noteDirName>
+    <noteFileName>Dotspatial.Projection学习.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Grid shift files 的定义  以及三参数及七参数转换</noteName>
+    <noteGuid>fc06fe8a-d292-4fd9-bb7d-86fd7b5e9f4a</noteGuid>
+    <noteDirName>Grid shift files 的定义  以及三参数及七参数转换</noteDirName>
+    <noteFileName>Grid shift files 的定义  以及三参数及七参数转换.v</noteFileName>
+    <tagGuidLst>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>WKT、SRID、EPSG概念</noteName>
+    <noteGuid>06cfc129-58c8-447d-a9e6-8e9ac4c6f011</noteGuid>
+    <noteDirName>WKT、SRID、EPSG概念</noteDirName>
+    <noteFileName>WKT、SRID、EPSG概念.v</noteFileName>
+    <tagGuidLst>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>EPSG 、SRID其它信息</noteName>
+    <noteGuid>b6504797-5f2c-405a-a32f-c9c424508c3f</noteGuid>
+    <noteDirName>EPSG 、SRID其它信息</noteDirName>
+    <noteFileName>EPSG 、SRID其它信息.docx</noteFileName>
+    <tagGuidLst>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>不同WKT实现之间的区别？（ESRI格式与OGC格式）</noteName>
+    <noteGuid>f2209a04-f083-41e6-909a-01d92eea72b0</noteGuid>
+    <noteDirName>不同WKT实现之间的区别？（ESRI格式与OGC格式）</noteDirName>
+    <noteFileName>不同WKT实现之间的区别？（ESRI格式与OGC格式）.v</noteFileName>
+    <tagGuidLst>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>椭球，基准面，投影等的基本概念</noteName>
+    <noteGuid>ab9ed395-e86a-4020-a45d-bf61ce7b7134</noteGuid>
+    <noteDirName>椭球，基准面，投影等的基本概念</noteDirName>
+    <noteFileName>椭球，基准面，投影等的基本概念.docx</noteFileName>
+    <tagGuidLst>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Projection里的一些概念和算法，等积纬度（Authalic latitude），地心纬度，大地纬度等</noteName>
+    <noteGuid>edcd2419-9cbe-46ae-a721-ff82971b51ed</noteGuid>
+    <noteDirName>Projection里的一些概念和算法，等积纬度（Authalic latitude），地心纬度，大地纬度等</noteDirName>
+    <noteFileName>Projection里的一些概念和算法，等积纬度（Authalic latitude），地心纬度，大地纬度等.docx</noteFileName>
+    <tagGuidLst>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用GDAL进行坐标转换</noteName>
+    <noteGuid>a706b4a5-f325-47a8-be1c-256869e002f7</noteGuid>
+    <noteDirName>使用GDAL进行坐标转换</noteDirName>
+    <noteFileName>使用GDAL进行坐标转换.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>示例代码</noteName>
+    <noteGuid>deb569f8-e838-4ce4-94c8-b41fa362c987</noteGuid>
+    <noteDirName>示例代码</noteDirName>
+    <noteFileName>示例代码.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>Form1.cs</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>1-下载与引用方法</noteName>
+    <noteGuid>9c314c57-d8b7-426e-824b-40de36ea8e40</noteGuid>
+    <noteDirName>1-下载与引用方法</noteDirName>
+    <noteFileName>1-下载与引用方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2：-注册及环境参数</noteName>
+    <noteGuid>ae7407a1-b2e0-4b04-a7ef-bb5d5cd0c3d3</noteGuid>
+    <noteDirName>2：-注册及环境参数</noteDirName>
+    <noteFileName>2：-注册及环境参数.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>3-打开影像文件</noteName>
+    <noteGuid>18188264-773d-4a50-8a79-ff51bd36229c</noteGuid>
+    <noteDirName>3-打开影像文件</noteDirName>
+    <noteFileName>3-打开影像文件.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>4-创建影像文件</noteName>
+    <noteGuid>a81069e5-d4d1-4589-bf7f-13378334bbe3</noteGuid>
+    <noteDirName>4-创建影像文件</noteDirName>
+    <noteFileName>4-创建影像文件.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>OGR笔记</noteName>
+    <noteGuid>bb4240e2-658a-488b-aa1d-87975d81770a</noteGuid>
+    <noteDirName>OGR笔记</noteDirName>
+    <noteFileName>OGR笔记.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>GDAL的块参数大小设置</noteName>
+    <noteGuid>ea6f1d22-1424-4647-8c08-55415c960f22</noteGuid>
+    <noteDirName>GDAL的块参数大小设置</noteDirName>
+    <noteFileName>GDAL的块参数大小设置.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#开发的GDAL程序部署遇到的问题</noteName>
+    <noteGuid>abc50d9e-0a0b-4ec6-855f-ee3258f219dc</noteGuid>
+    <noteDirName>C#开发的GDAL程序部署遇到的问题</noteDirName>
+    <noteFileName>C#开发的GDAL程序部署遇到的问题.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>Depends.exe</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>GDAL库的编译</noteName>
+    <noteGuid>4e698841-ae2d-44f5-baa5-8a6446c5c133</noteGuid>
+    <noteDirName>GDAL库的编译</noteDirName>
+    <noteFileName>GDAL库的编译.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>gdal库编译遇到的问题</noteName>
+    <noteGuid>64feaaad-2add-45ba-aa89-da35a1a9898e</noteGuid>
+    <noteDirName>gdal库编译遇到的问题</noteDirName>
+    <noteFileName>gdal库编译遇到的问题.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>gdal 生成影像的统计信息（ComputeStatistics)</noteName>
+    <noteGuid>64439dbe-c40f-4388-a1f5-3fdb33551f96</noteGuid>
+    <noteDirName>gdal 生成影像的统计信息（ComputeStatistics)</noteDirName>
+    <noteFileName>gdal 生成影像的统计信息（ComputeStatistics).v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#下GDAL算法进度显示</noteName>
+    <noteGuid>d1151930-2c2a-488d-8032-30e92999fbbb</noteGuid>
+    <noteDirName>C#下GDAL算法进度显示</noteDirName>
+    <noteFileName>C#下GDAL算法进度显示.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>解决安装vs2012后vs2010 LINK  fatal error LNK1123 failure during conversion to COFF</noteName>
+    <noteGuid>e0ca21dd-c1eb-4938-acd9-72d0610d21a3</noteGuid>
+    <noteDirName>解决安装vs2012后vs2010 LINK  fatal error LNK1123 failure during conversion to COFF</noteDirName>
+    <noteFileName>解决安装vs2012后vs2010 LINK  fatal error LNK1123 failure during conversion to COFF.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>cvtres.zip</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>GDAL库编译遇到的几个问题 1.9版本以后</noteName>
+    <noteGuid>f3822cef-e15d-44b5-9c2f-a8746cd9b405</noteGuid>
+    <noteDirName>GDAL库编译遇到的几个问题 1.9版本以后</noteDirName>
+    <noteFileName>GDAL库编译遇到的几个问题 1.9版本以后.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在C#中使用GDAL库时读取中文路径的问题</noteName>
+    <noteGuid>cf441ca7-6c3f-45fe-a2c9-61c475e91076</noteGuid>
+    <noteDirName>在C#中使用GDAL库时读取中文路径的问题</noteDirName>
+    <noteFileName>在C#中使用GDAL库时读取中文路径的问题.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>《《参考》》关于GDAL180中文路径不能打开的问题分析与解决</noteName>
+    <noteGuid>5145e442-fa32-4eb5-9213-98a6dde902ec</noteGuid>
+    <noteDirName>《《参考》》关于GDAL180中文路径不能打开的问题分析与解决</noteDirName>
+    <noteFileName>《《参考》》关于GDAL180中文路径不能打开的问题分析与解决.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>《《参考》》浅析GDAL库C#版本支持中文路径问题</noteName>
+    <noteGuid>1f7ec035-1675-47b9-99d6-5997116edda9</noteGuid>
+    <noteDirName>《《参考》》浅析GDAL库C#版本支持中文路径问题</noteDirName>
+    <noteFileName>《《参考》》浅析GDAL库C#版本支持中文路径问题.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
