@@ -2958,4 +2958,460 @@
       <string>Form1.cs</string>
     </attachLst>
   </NoteClass>
+  <NoteClass>
+    <noteName>查看可执行JAV包的打包方式</noteName>
+    <noteGuid>1db9000b-0933-464d-97d6-07b896a53d0a</noteGuid>
+    <noteDirName>查看可执行JAV包的打包方式</noteDirName>
+    <noteFileName>查看可执行JAV包的打包方式.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Struts2入门</noteName>
+    <noteGuid>08cfec73-dff8-4ff2-bfbf-1970d84132a4</noteGuid>
+    <noteDirName>Struts2入门</noteDirName>
+    <noteFileName>Struts2入门.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Struts2加载过程（以2.0.9为例）</noteName>
+    <noteGuid>264ea5fc-d387-4c40-8a30-08bcbcf1e853</noteGuid>
+    <noteDirName>Struts2加载过程（以2.0.9为例）</noteDirName>
+    <noteFileName>Struts2加载过程（以2.0.9为例）.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Tomcat发布网站方法</noteName>
+    <noteGuid>c24db5ac-340b-439c-9e04-a0523a36438a</noteGuid>
+    <noteDirName>Tomcat发布网站方法</noteDirName>
+    <noteFileName>Tomcat发布网站方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Spring3整合Hibernate3</noteName>
+    <noteGuid>37862bd4-10e7-435f-b085-24f877650de3</noteGuid>
+    <noteDirName>Spring3整合Hibernate3</noteDirName>
+    <noteFileName>Spring3整合Hibernate3.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>spring的加载（以02C为例）（版本为2.5）</noteName>
+    <noteGuid>85920d04-5984-4543-9691-02becbed9fea</noteGuid>
+    <noteDirName>spring的加载（以02C为例）（版本为2.5）</noteDirName>
+    <noteFileName>spring的加载（以02C为例）（版本为2.5）.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DWR框架介绍及使用方法</noteName>
+    <noteGuid>688b41c9-abb7-4a33-ad8d-507515865717</noteGuid>
+    <noteDirName>DWR框架介绍及使用方法</noteDirName>
+    <noteFileName>DWR框架介绍及使用方法.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>DWR框架的使用说明.doc</string>
+      <string>DWR框架介绍及使用方法.docx</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>web.xml中listener作用及使用</noteName>
+    <noteGuid>56dc903c-d4e0-46a2-abcb-68bf72641891</noteGuid>
+    <noteDirName>web.xml中listener作用及使用</noteDirName>
+    <noteFileName>web.xml中listener作用及使用.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Servlet基础知识及应用&amp;02C网站快视图获取机制</noteName>
+    <noteGuid>9683610c-19cd-455f-aa89-ca7b26fbc670</noteGuid>
+    <noteDirName>Servlet基础知识及应用&amp;02C网站快视图获取机制</noteDirName>
+    <noteFileName>Servlet基础知识及应用&amp;02C网站快视图获取机制.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Stuts2下的上传文件</noteName>
+    <noteGuid>1a382c9b-3b76-4fee-ac34-59972be9e59f</noteGuid>
+    <noteDirName>Stuts2下的上传文件</noteDirName>
+    <noteFileName>Stuts2下的上传文件.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>java笔记</noteName>
+    <noteGuid>f27226ab-cceb-4e93-be8d-3947c904ba7f</noteGuid>
+    <noteDirName>java笔记</noteDirName>
+    <noteFileName>java笔记.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>java笔记-Hibernate1</noteName>
+    <noteGuid>9f09e15e-4dac-4ca4-a85d-100890130df8</noteGuid>
+    <noteDirName>java笔记-Hibernate1</noteDirName>
+    <noteFileName>java笔记-Hibernate1.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Eclipse的JSP调试与Tomcat Server</noteName>
+    <noteGuid>6095bd85-546c-4874-bca2-4b10685ea3a9</noteGuid>
+    <noteDirName>Eclipse的JSP调试与Tomcat Server</noteDirName>
+    <noteFileName>Eclipse的JSP调试与Tomcat Server.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>eclipse的工程类型切换 &amp; MyEclipse工程导入至Eclipse</noteName>
+    <noteGuid>97027975-b83c-43e9-8e15-89a3a9a3a9e4</noteGuid>
+    <noteDirName>eclipse的工程类型切换 &amp; MyEclipse工程导入至Eclipse</noteDirName>
+    <noteFileName>eclipse的工程类型切换 &amp; MyEclipse工程导入至Eclipse.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>jdbc连接和操作数据库(非Hibernate)</noteName>
+    <noteGuid>b2abdd29-9ea7-4c09-8202-4757466f6a7d</noteGuid>
+    <noteDirName>jdbc连接和操作数据库(非Hibernate)</noteDirName>
+    <noteFileName>jdbc连接和操作数据库(非Hibernate).v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>jdbc连接Oracle的两种模式</noteName>
+    <noteGuid>ad6aa4bb-c4d5-41b6-8485-8408f311d3ba</noteGuid>
+    <noteDirName>jdbc连接Oracle的两种模式</noteDirName>
+    <noteFileName>jdbc连接Oracle的两种模式.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Eclipse的代码补全设置</noteName>
+    <noteGuid>c2d87cd6-8df9-4107-9291-0121cf18f5cf</noteGuid>
+    <noteDirName>Eclipse的代码补全设置</noteDirName>
+    <noteFileName>Eclipse的代码补全设置.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JDBC里,使用ResultSet的一些TIPS</noteName>
+    <noteGuid>b4c47ee9-dc65-4133-915c-ee739018f580</noteGuid>
+    <noteDirName>JDBC里,使用ResultSet的一些TIPS</noteDirName>
+    <noteFileName>JDBC里,使用ResultSet的一些TIPS.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JDBC中的事务</noteName>
+    <noteGuid>a768d066-467a-4830-a2ad-a9666bd14460</noteGuid>
+    <noteDirName>JDBC中的事务</noteDirName>
+    <noteFileName>JDBC中的事务.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>jdbc连接和操作数据库(postgresql的一个实例)</noteName>
+    <noteGuid>666f1638-a369-4fc1-ad2a-2757a9a846ae</noteGuid>
+    <noteDirName>jdbc连接和操作数据库(postgresql的一个实例)</noteDirName>
+    <noteFileName>jdbc连接和操作数据库(postgresql的一个实例).v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+      <string>28fa45f4-ca51-4c6d-9581-cb497cd3bb9e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JSP 语法</noteName>
+    <noteGuid>93d7174b-d681-4c89-933e-b05db73a3a49</noteGuid>
+    <noteDirName>JSP 语法</noteDirName>
+    <noteFileName>JSP 语法.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JSP Cookie</noteName>
+    <noteGuid>52514649-201e-41bd-9503-d7fa0141312a</noteGuid>
+    <noteDirName>JSP Cookie</noteDirName>
+    <noteFileName>JSP Cookie.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Jsp&amp;JavaScript--前台后异步数据传递，查询数据（JSP版）</noteName>
+    <noteGuid>3d0ca5b4-624c-4dfa-a121-80f91aa2183f</noteGuid>
+    <noteDirName>Jsp&amp;JavaScript--前台后异步数据传递，查询数据（JSP版）</noteDirName>
+    <noteFileName>Jsp&amp;JavaScript--前台后异步数据传递，查询数据（JSP版）.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Jsp&amp;JavaScript--前台后异步数据传递，查询数据（Servlet版）</noteName>
+    <noteGuid>16440e03-a2b9-4eed-9ef4-b830256e2507</noteGuid>
+    <noteDirName>Jsp&amp;JavaScript--前台后异步数据传递，查询数据（Servlet版）</noteDirName>
+    <noteFileName>Jsp&amp;JavaScript--前台后异步数据传递，查询数据（Servlet版）.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JSP--包含其它页面（include）</noteName>
+    <noteGuid>880757a8-721c-424b-918c-336771c1f56c</noteGuid>
+    <noteDirName>JSP--包含其它页面（include）</noteDirName>
+    <noteFileName>JSP--包含其它页面（include）.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Java数据库ResultSet转json实现</noteName>
+    <noteGuid>1ff29c69-16d3-45b4-99cc-44e7d6196184</noteGuid>
+    <noteDirName>Java数据库ResultSet转json实现</noteDirName>
+    <noteFileName>Java数据库ResultSet转json实现.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JavaScript--html里Button标签的使用</noteName>
+    <noteGuid>71119fd2-a738-4893-bb4b-80028a877279</noteGuid>
+    <noteDirName>JavaScript--html里Button标签的使用</noteDirName>
+    <noteFileName>JavaScript--html里Button标签的使用.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JavaScript--Document.write</noteName>
+    <noteGuid>cf4c0244-febc-4533-bf94-70c4ca7552bb</noteGuid>
+    <noteDirName>JavaScript--Document.write</noteDirName>
+    <noteFileName>JavaScript--Document.write.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JavaScript--引用外部JS文件</noteName>
+    <noteGuid>5af4c716-47da-432f-ad6e-8f850c041101</noteGuid>
+    <noteDirName>JavaScript--引用外部JS文件</noteDirName>
+    <noteFileName>JavaScript--引用外部JS文件.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JavaScript--变量和对象</noteName>
+    <noteGuid>c329fdf7-f9ae-4c38-948e-7f9feb796edb</noteGuid>
+    <noteDirName>JavaScript--变量和对象</noteDirName>
+    <noteFileName>JavaScript--变量和对象.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JavaScript--void</noteName>
+    <noteGuid>e5963e3f-5a6a-4ea3-805b-699355424bad</noteGuid>
+    <noteDirName>JavaScript--void</noteDirName>
+    <noteFileName>JavaScript--void.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JavaScript HTML DOM EventListener</noteName>
+    <noteGuid>e6869138-a461-4985-84f1-14cbc4521b9a</noteGuid>
+    <noteDirName>JavaScript HTML DOM EventListener</noteDirName>
+    <noteFileName>JavaScript HTML DOM EventListener.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JavaScript参考--HTML DOM 事件</noteName>
+    <noteGuid>02fbb455-3935-473c-a160-b4baa7974b8f</noteGuid>
+    <noteDirName>JavaScript参考--HTML DOM 事件</noteDirName>
+    <noteFileName>JavaScript参考--HTML DOM 事件.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JavaScript 对象</noteName>
+    <noteGuid>cf538a1c-8232-48be-87ca-260ff5406ecd</noteGuid>
+    <noteDirName>JavaScript 对象</noteDirName>
+    <noteFileName>JavaScript 对象.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>FireBug 调试JS入门 —如何调试javascript</noteName>
+    <noteGuid>b9cddc76-c36f-4359-aeda-908ec36ede78</noteGuid>
+    <noteDirName>FireBug 调试JS入门 —如何调试javascript</noteDirName>
+    <noteFileName>FireBug 调试JS入门 —如何调试javascript.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>IE兼容模式下提示JSON对象未定义的错误解决办法</noteName>
+    <noteGuid>d523c438-01e7-46e4-8316-284a28ef2284</noteGuid>
+    <noteDirName>IE兼容模式下提示JSON对象未定义的错误解决办法</noteDirName>
+    <noteFileName>IE兼容模式下提示JSON对象未定义的错误解决办法.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Jsp&amp;Javascript例子</noteName>
+    <noteGuid>c8daaa1c-7b13-4fc3-a875-38334aa03f3b</noteGuid>
+    <noteDirName>Jsp&amp;Javascript例子</noteDirName>
+    <noteFileName>Jsp&amp;Javascript例子.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>e737ed19-3c9d-4f9d-a6c8-4a6cc4acb30b</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>javaSample.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>node-webkit开发桌面应用</noteName>
+    <noteGuid>dfc1fba1-877f-4751-b49d-792e4ac9949a</noteGuid>
+    <noteDirName>node-webkit开发桌面应用</noteDirName>
+    <noteFileName>node-webkit开发桌面应用.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>04124330-61af-4850-8cf9-08f0e5217b0d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>南师大GIS教案</noteName>
+    <noteGuid>f29a5215-dece-446a-97af-81fe4ed62a41</noteGuid>
+    <noteDirName>南师大GIS教案</noteDirName>
+    <noteFileName>南师大GIS教案.v</noteFileName>
+    <tagGuidLst>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Hilbert空间填充曲线</noteName>
+    <noteGuid>69890a05-50ab-4b49-98cc-852e09ef34e4</noteGuid>
+    <noteDirName>Hilbert空间填充曲线</noteDirName>
+    <noteFileName>Hilbert空间填充曲线.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
