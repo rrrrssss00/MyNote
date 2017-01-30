@@ -1579,6 +1579,8 @@
     <tagGuidLst>
       <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
       <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
     </tagGuidLst>
     <attachLst />
   </NoteClass>
@@ -1590,6 +1592,8 @@
     <tagGuidLst>
       <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
       <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
     </tagGuidLst>
     <attachLst />
   </NoteClass>
@@ -3733,5 +3737,1010 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
-
+  <NoteClass>
+    <noteName>向WPF组件中新加控件，报未找到依赖项的错误</noteName>
+    <noteGuid>13a8d71f-16d2-45cb-8a57-7bfb2fcb593b</noteGuid>
+    <noteDirName>向WPF组件中新加控件，报未找到依赖项的错误</noteDirName>
+    <noteFileName>向WPF组件中新加控件，报未找到依赖项的错误.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>wpf学习</noteName>
+    <noteGuid>d64bc8b4-5040-4a39-9e3e-52711d16d819</noteGuid>
+    <noteDirName>wpf学习</noteDirName>
+    <noteFileName>wpf学习.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>wcf学习--建立最简单的WCF服务</noteName>
+    <noteGuid>7f95f1f3-20cb-4bbc-9f70-c2699bf1e55b</noteGuid>
+    <noteDirName>wcf学习--建立最简单的WCF服务</noteDirName>
+    <noteFileName>wcf学习--建立最简单的WCF服务.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>wcf学习--概述</noteName>
+    <noteGuid>baabec24-fc2c-4cc4-ad4d-567054184dc2</noteGuid>
+    <noteDirName>wcf学习--概述</noteDirName>
+    <noteFileName>wcf学习--概述.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>wcf学习--不错的Blog</noteName>
+    <noteGuid>c9e6618f-c0d0-492a-87f6-923fd44cae7f</noteGuid>
+    <noteDirName>wcf学习--不错的Blog</noteDirName>
+    <noteFileName>wcf学习--不错的Blog.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>wcf学习--BasicHttpBinding 和 WsHttpBinding 的不同点</noteName>
+    <noteGuid>8de12c79-70aa-4634-8ebb-6f647318198b</noteGuid>
+    <noteDirName>wcf学习--BasicHttpBinding 和 WsHttpBinding 的不同点</noteDirName>
+    <noteFileName>wcf学习--BasicHttpBinding 和 WsHttpBinding 的不同点.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>WCF学习--WCF服务实例模式</noteName>
+    <noteGuid>a8dda107-d9f6-46b7-afbf-8f3791c116d2</noteGuid>
+    <noteDirName>WCF学习--WCF服务实例模式</noteDirName>
+    <noteFileName>WCF学习--WCF服务实例模式.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#连接LDAP(NDS)并读取其中的信息</noteName>
+    <noteGuid>09ec49a2-c9ff-4ea7-98fb-762373d67fc9</noteGuid>
+    <noteDirName>C#连接LDAP(NDS)并读取其中的信息</noteDirName>
+    <noteFileName>C#连接LDAP(NDS)并读取其中的信息.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>TestNds.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>[C#]LDAP增加用户和修改密码</noteName>
+    <noteGuid>18565404-b9fd-4614-9257-1ffa8f8c9d29</noteGuid>
+    <noteDirName>[C#]LDAP增加用户和修改密码</noteDirName>
+    <noteFileName>[C#]LDAP增加用户和修改密码.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>用C#对Active Directory进行增删修查以及用户校验</noteName>
+    <noteGuid>24691d2a-6fbb-4082-9c28-fa22353a3820</noteGuid>
+    <noteDirName>用C#对Active Directory进行增删修查以及用户校验</noteDirName>
+    <noteFileName>用C#对Active Directory进行增删修查以及用户校验.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>GMap.NET使用笔记</noteName>
+    <noteGuid>1ba09ef5-087f-4ade-8a82-d71767c6438f</noteGuid>
+    <noteDirName>GMap.NET使用笔记</noteDirName>
+    <noteFileName>GMap.NET使用笔记.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>gridView1 FilterPopupListBox</noteName>
+    <noteGuid>e15d4315-745c-466a-892a-86ff39ba8416</noteGuid>
+    <noteDirName>gridView1 FilterPopupListBox</noteDirName>
+    <noteFileName>gridView1 FilterPopupListBox.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>06ab1b88-3dc4-4e1a-a9ba-602a1d9ee81a</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Devexpress Localization</noteName>
+    <noteGuid>fdb97986-a023-4b78-ad66-64ef4e712ccd</noteGuid>
+    <noteDirName>Devexpress Localization</noteDirName>
+    <noteFileName>Devexpress Localization.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>06ab1b88-3dc4-4e1a-a9ba-602a1d9ee81a</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Skinchange</noteName>
+    <noteGuid>f962b993-78dd-44be-819b-6f556987ad32</noteGuid>
+    <noteDirName>Skinchange</noteDirName>
+    <noteFileName>Skinchange.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>06ab1b88-3dc4-4e1a-a9ba-602a1d9ee81a</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>XtraGrid一些基本用法</noteName>
+    <noteGuid>fb4fdc21-bea1-4db6-bb31-32c60266f6ab</noteGuid>
+    <noteDirName>XtraGrid一些基本用法</noteDirName>
+    <noteFileName>XtraGrid一些基本用法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>06ab1b88-3dc4-4e1a-a9ba-602a1d9ee81a</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>XtraGrid获取鼠标点击处的表格信息</noteName>
+    <noteGuid>8db0d2cf-7dd5-4934-809b-896a688ec8fb</noteGuid>
+    <noteDirName>XtraGrid获取鼠标点击处的表格信息</noteDirName>
+    <noteFileName>XtraGrid获取鼠标点击处的表格信息.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>06ab1b88-3dc4-4e1a-a9ba-602a1d9ee81a</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Dev中实现能够被拖动的popupContainerControl</noteName>
+    <noteGuid>93aa6b12-b6c6-4495-b64b-734fd647015e</noteGuid>
+    <noteDirName>Dev中实现能够被拖动的popupContainerControl</noteDirName>
+    <noteFileName>Dev中实现能够被拖动的popupContainerControl.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>06ab1b88-3dc4-4e1a-a9ba-602a1d9ee81a</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DevExpress源代码的编译</noteName>
+    <noteGuid>3d1f938c-2f78-4f9e-81a2-02e6b12a50a9</noteGuid>
+    <noteDirName>DevExpress源代码的编译</noteDirName>
+    <noteFileName>DevExpress源代码的编译.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>06ab1b88-3dc4-4e1a-a9ba-602a1d9ee81a</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>IDW插值算法</noteName>
+    <noteGuid>bba95351-c5c6-4cbb-8873-48f01ad4c5c4</noteGuid>
+    <noteDirName>IDW插值算法</noteDirName>
+    <noteFileName>IDW插值算法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>IDW.cs</string>
+      <string>IDW.m</string>
+      <string>IDWTest.zip</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>ArcGIS Engine栅格数据使用总结</noteName>
+    <noteGuid>0fc6e916-ecdc-4e5f-b3f3-038c1f0c11ff</noteGuid>
+    <noteDirName>ArcGIS Engine栅格数据使用总结</noteDirName>
+    <noteFileName>ArcGIS Engine栅格数据使用总结.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Geodatabase的版本</noteName>
+    <noteGuid>e4cbcd04-4b63-429e-9163-4c6fe2aad02d</noteGuid>
+    <noteDirName>Geodatabase的版本</noteDirName>
+    <noteFileName>Geodatabase的版本.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>动态投影转换相关</noteName>
+    <noteGuid>859d8923-ef4d-4ba0-bc25-d5e3f18bb6a7</noteGuid>
+    <noteDirName>动态投影转换相关</noteDirName>
+    <noteFileName>动态投影转换相关.docx</noteFileName>
+    <tagGuidLst>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>AEBaseLib</noteName>
+    <noteGuid>3ee75047-3f22-4cde-88d9-a4fe7dce8518</noteGuid>
+    <noteDirName>AEBaseLib</noteDirName>
+    <noteFileName>AEBaseLib.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>AEBasLib.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>Windows X64上强制用x86模式运行c#程序</noteName>
+    <noteGuid>aa1d1210-3885-46d5-b58a-45834888f58e</noteGuid>
+    <noteDirName>Windows X64上强制用x86模式运行c#程序</noteDirName>
+    <noteFileName>Windows X64上强制用x86模式运行c#程序.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>矢量图层(FeatureClass)获取和更新Extent</noteName>
+    <noteGuid>22f81a17-4993-45b2-a313-6de47a6a54f6</noteGuid>
+    <noteDirName>矢量图层(FeatureClass)获取和更新Extent</noteDirName>
+    <noteFileName>矢量图层(FeatureClass)获取和更新Extent.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Effective C# 笔记</noteName>
+    <noteGuid>753f88a5-47af-4f34-8b71-ad667b6701c1</noteGuid>
+    <noteDirName>Effective C# 笔记</noteDirName>
+    <noteFileName>Effective C# 笔记.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在VS.net(C#)里,设置程序在启动时默认以管理员身份运行的方法</noteName>
+    <noteGuid>1cfb3cc6-6b58-4b52-810d-82dd5c09862f</noteGuid>
+    <noteDirName>在VS.net(C#)里,设置程序在启动时默认以管理员身份运行的方法</noteDirName>
+    <noteFileName>在VS.net(C#)里,设置程序在启动时默认以管理员身份运行的方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>WIN7下使用.net(C#)监视剪贴板</noteName>
+    <noteGuid>dbb8509d-de7c-436d-9042-48c54ae5a947</noteGuid>
+    <noteDirName>WIN7下使用.net(C#)监视剪贴板</noteDirName>
+    <noteFileName>WIN7下使用.net(C#)监视剪贴板.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>ClipboardChangeNotifier.cs</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>从文件中获取Image(Bitmap)，然后释放该文件</noteName>
+    <noteGuid>0b475cd0-f07b-4903-b08a-f6075ffc3352</noteGuid>
+    <noteDirName>从文件中获取Image(Bitmap)，然后释放该文件</noteDirName>
+    <noteFileName>从文件中获取Image(Bitmap)，然后释放该文件.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>VS2010新建”安装和部署项目“时，在“项目属性”-》“系统必备”列表中没有项，或显示“prerequisite could not be found for Bootstrapping”，的解决方法</noteName>
+    <noteGuid>481c3b0b-d2b6-4147-9ca9-17dc851b81a5</noteGuid>
+    <noteDirName>VS2010新建”安装和部署项目“时，在“项目属性”-》“系统必备”列表中没有项，或显示“prerequisite could not be found for Bootstrapping”，的解决方法</noteDirName>
+    <noteFileName>VS2010新建”安装和部署项目“时，在“项目属性”-》“系统必备”列表中没有项，或显示“prerequisite could not be found for Bootstrapping”，的解决方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用ICSharpCode.SharpZLib，读取Tar.gz压缩包的文件名乱码问题</noteName>
+    <noteGuid>3194b724-56d0-44d1-89e1-31c0e7b6b838</noteGuid>
+    <noteDirName>使用ICSharpCode.SharpZLib，读取Tar.gz压缩包的文件名乱码问题</noteDirName>
+    <noteFileName>使用ICSharpCode.SharpZLib，读取Tar.gz压缩包的文件名乱码问题.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>BackgroundWorker的使用</noteName>
+    <noteGuid>6e1d8d22-590e-42a7-8085-78bb4ef59ac7</noteGuid>
+    <noteDirName>BackgroundWorker的使用</noteDirName>
+    <noteFileName>BackgroundWorker的使用.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DevExpress版本转换注意</noteName>
+    <noteGuid>731b31b1-6db7-43a1-b3d8-d36d5570ba4a</noteGuid>
+    <noteDirName>DevExpress版本转换注意</noteDirName>
+    <noteFileName>DevExpress版本转换注意.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>06ab1b88-3dc4-4e1a-a9ba-602a1d9ee81a</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>UniqueValueRenderer的DefaultSymbol及DefaultLabel设置</noteName>
+    <noteGuid>4daa3b16-81d6-4e5d-b471-1c094b6149a9</noteGuid>
+    <noteDirName>UniqueValueRenderer的DefaultSymbol及DefaultLabel设置</noteDirName>
+    <noteFileName>UniqueValueRenderer的DefaultSymbol及DefaultLabel设置.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>IRasterClassifyColorRampRenderer 的一些注意点</noteName>
+    <noteGuid>c5104067-34d7-454e-917e-39011310fd0e</noteGuid>
+    <noteDirName>IRasterClassifyColorRampRenderer 的一些注意点</noteDirName>
+    <noteFileName>IRasterClassifyColorRampRenderer 的一些注意点.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#获取本机的IP</noteName>
+    <noteGuid>128b9f76-1072-4f41-aab1-416340380461</noteGuid>
+    <noteDirName>C#获取本机的IP</noteDirName>
+    <noteFileName>C#获取本机的IP.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>ArcGIS中向图层添加要素时的IZAware的相关问题</noteName>
+    <noteGuid>b1d93825-d9a1-4f9d-a99c-88cb6bfe6175</noteGuid>
+    <noteDirName>ArcGIS中向图层添加要素时的IZAware的相关问题</noteDirName>
+    <noteFileName>ArcGIS中向图层添加要素时的IZAware的相关问题.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用InternalsVisibleTo给assembly添加“友元assembly”</noteName>
+    <noteGuid>fcd50715-1721-47f5-b66c-c824b2428f00</noteGuid>
+    <noteDirName>使用InternalsVisibleTo给assembly添加“友元assembly”</noteDirName>
+    <noteFileName>使用InternalsVisibleTo给assembly添加“友元assembly”.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>06ab1b88-3dc4-4e1a-a9ba-602a1d9ee81a</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>Program.cs</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>ViEmu For VS2010 3.0 解除30天限制的方法</noteName>
+    <noteGuid>2de18153-3e3e-4634-9b00-0864ca5e6823</noteGuid>
+    <noteDirName>ViEmu For VS2010 3.0 解除30天限制的方法</noteDirName>
+    <noteFileName>ViEmu For VS2010 3.0 解除30天限制的方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在BackGroundWorker中使用ArcGIS组件</noteName>
+    <noteGuid>178e0717-491e-492b-bf48-929a195ac3f6</noteGuid>
+    <noteDirName>在BackGroundWorker中使用ArcGIS组件</noteDirName>
+    <noteFileName>在BackGroundWorker中使用ArcGIS组件.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>操作步骤：用ildasm及ilasm修改IL代码</noteName>
+    <noteGuid>6d1d3e41-1616-49db-9983-1e71cbcde9ff</noteGuid>
+    <noteDirName>操作步骤：用ildasm及ilasm修改IL代码</noteDirName>
+    <noteFileName>操作步骤：用ildasm及ilasm修改IL代码.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>修改.NET程序或DLL的几种方法</noteName>
+    <noteGuid>d23f7a7f-d9b6-4fb4-a196-4e1586f9c252</noteGuid>
+    <noteDirName>修改.NET程序或DLL的几种方法</noteDirName>
+    <noteFileName>修改.NET程序或DLL的几种方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>CultureInfo中重要的InvariantCulture</noteName>
+    <noteGuid>4349de6c-9a35-4a18-833e-38ddb3b45e81</noteGuid>
+    <noteDirName>CultureInfo中重要的InvariantCulture</noteDirName>
+    <noteFileName>CultureInfo中重要的InvariantCulture.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#异步编程</noteName>
+    <noteGuid>1b2ce7ee-4d0b-450a-892b-d3ece0863bd5</noteGuid>
+    <noteDirName>C#异步编程</noteDirName>
+    <noteFileName>C#异步编程.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Socket Server&amp;Client示例</noteName>
+    <noteGuid>739b7b2d-f708-462b-be5a-092e0a79edbd</noteGuid>
+    <noteDirName>Socket Server&amp;Client示例</noteDirName>
+    <noteFileName>Socket Server&amp;Client示例.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>socket.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>C# Synchronized 和 SyncRoot 实现线程同步的源码分析及泛型集合的线程安全访问</noteName>
+    <noteGuid>e1d9052d-b5ac-4d22-9f7f-43092a2c446e</noteGuid>
+    <noteDirName>C# Synchronized 和 SyncRoot 实现线程同步的源码分析及泛型集合的线程安全访问</noteDirName>
+    <noteFileName>C# Synchronized 和 SyncRoot 实现线程同步的源码分析及泛型集合的线程安全访问.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C# Lambda表达式</noteName>
+    <noteGuid>0e11941e-adf7-476f-b8af-ead35dd3b740</noteGuid>
+    <noteDirName>C# Lambda表达式</noteDirName>
+    <noteFileName>C# Lambda表达式.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用Socket传输自定义格式数据的一种方法</noteName>
+    <noteGuid>7926c148-2ac1-4332-b767-f3092a97118c</noteGuid>
+    <noteDirName>使用Socket传输自定义格式数据的一种方法</noteDirName>
+    <noteFileName>使用Socket传输自定义格式数据的一种方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#线程同步的几种方法</noteName>
+    <noteGuid>5b2e323e-7c0b-443b-a124-46e51a676a0b</noteGuid>
+    <noteDirName>C#线程同步的几种方法</noteDirName>
+    <noteFileName>C#线程同步的几种方法.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#[Serializable]在C#中的作用-NET 中的对象序列化</noteName>
+    <noteGuid>0e3901dd-0415-4f0e-b401-a5af9262f3d9</noteGuid>
+    <noteDirName>C#[Serializable]在C#中的作用-NET 中的对象序列化</noteDirName>
+    <noteFileName>C#[Serializable]在C#中的作用-NET 中的对象序列化.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在.NET使用JSON作为数据交换格式</noteName>
+    <noteGuid>7058d7ea-0502-4ede-ad37-eda7aca77ef2</noteGuid>
+    <noteDirName>在.NET使用JSON作为数据交换格式</noteDirName>
+    <noteFileName>在.NET使用JSON作为数据交换格式.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>区分dll与Exe文件32位64位的程序</noteName>
+    <noteGuid>5963a988-5ca5-479d-9176-d991c88d7171</noteGuid>
+    <noteDirName>区分dll与Exe文件32位64位的程序</noteDirName>
+    <noteFileName>区分dll与Exe文件32位64位的程序.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#进行WEB查询和提交（以12306订购火车票为例）</noteName>
+    <noteGuid>083b2fc9-bd09-4a91-a622-ba5d3422c2ff</noteGuid>
+    <noteDirName>C#进行WEB查询和提交（以12306订购火车票为例）</noteDirName>
+    <noteFileName>C#进行WEB查询和提交（以12306订购火车票为例）.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>Paway.Ticket.zip</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#中使用Process启动外部EXE时，设置进程环境变量的方法</noteName>
+    <noteGuid>8dd0f660-14ec-4868-b26c-281ac466f305</noteGuid>
+    <noteDirName>C#中使用Process启动外部EXE时，设置进程环境变量的方法</noteDirName>
+    <noteFileName>C#中使用Process启动外部EXE时，设置进程环境变量的方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#使用System.Data.SQLite操作SQLite</noteName>
+    <noteGuid>3c882120-2bf7-4233-9c40-02503dcf66aa</noteGuid>
+    <noteDirName>C#使用System.Data.SQLite操作SQLite</noteDirName>
+    <noteFileName>C#使用System.Data.SQLite操作SQLite.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>IMapFunction 或 MapFuntion</noteName>
+    <noteGuid>4ee06649-d469-46d7-9a0e-c072b42b1455</noteGuid>
+    <noteDirName>IMapFunction 或 MapFuntion</noteDirName>
+    <noteFileName>IMapFunction 或 MapFuntion.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>dotspatial feature edit</noteName>
+    <noteGuid>4f67f42d-0c7a-46bb-9816-a248b30cf97d</noteGuid>
+    <noteDirName>dotspatial feature edit</noteDirName>
+    <noteFileName>dotspatial feature edit.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial Label</noteName>
+    <noteGuid>ec247c75-b919-4025-9f9d-71ba07dc5086</noteGuid>
+    <noteDirName>DotSpatial Label</noteDirName>
+    <noteFileName>DotSpatial Label.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>dotSpatial Raster</noteName>
+    <noteGuid>2330b991-81f8-4f7b-b45b-afb8a40bbd90</noteGuid>
+    <noteDirName>dotSpatial Raster</noteDirName>
+    <noteFileName>dotSpatial Raster.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial Selection</noteName>
+    <noteGuid>e13cee2d-0c8c-435b-bc17-1f809cf4ce56</noteGuid>
+    <noteDirName>DotSpatial Selection</noteDirName>
+    <noteFileName>DotSpatial Selection.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial-bugs and edits</noteName>
+    <noteGuid>282a6d11-e00f-4bf2-b915-246e05471d27</noteGuid>
+    <noteDirName>DotSpatial-bugs and edits</noteDirName>
+    <noteFileName>DotSpatial-bugs and edits.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Dotspatial-Controls.Map</noteName>
+    <noteGuid>86458a4c-2f2e-4cd1-8fec-31d747cc6594</noteGuid>
+    <noteDirName>Dotspatial-Controls.Map</noteDirName>
+    <noteFileName>Dotspatial-Controls.Map.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial-Geometry</noteName>
+    <noteGuid>92230dcc-40e8-4eb6-8adc-2a043fd5aa44</noteGuid>
+    <noteDirName>DotSpatial-Geometry</noteDirName>
+    <noteFileName>DotSpatial-Geometry.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial-Symbolagy.IFeatureLayer</noteName>
+    <noteGuid>f8699768-d23d-4f99-bfde-3f2f9341b2a8</noteGuid>
+    <noteDirName>DotSpatial-Symbolagy.IFeatureLayer</noteDirName>
+    <noteFileName>DotSpatial-Symbolagy.IFeatureLayer.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>dotspatial笔记</noteName>
+    <noteGuid>fe7bae92-01bb-41f4-8cfe-1cf4f219778a</noteGuid>
+    <noteDirName>dotspatial笔记</noteDirName>
+    <noteFileName>dotspatial笔记.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial_65997的插件机制</noteName>
+    <noteGuid>b3a8693c-8787-460d-b717-3300419b494d</noteGuid>
+    <noteDirName>DotSpatial_65997的插件机制</noteDirName>
+    <noteFileName>DotSpatial_65997的插件机制.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>dotspatial里使用代码控制图层符号化</noteName>
+    <noteGuid>ee22c9ce-f605-4453-aef3-0d4716321811</noteGuid>
+    <noteDirName>dotspatial里使用代码控制图层符号化</noteDirName>
+    <noteFileName>dotspatial里使用代码控制图层符号化.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Dotspatial里DataSet的GetFeature(int index)方法</noteName>
+    <noteGuid>bd759258-f31c-42c2-8294-93a583d7941c</noteGuid>
+    <noteDirName>Dotspatial里DataSet的GetFeature(int index)方法</noteDirName>
+    <noteFileName>Dotspatial里DataSet的GetFeature(int index)方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial中Shp文件的中文属性表读取写入相关</noteName>
+    <noteGuid>366b070d-9d20-452e-9c06-f7a32b6ffc9e</noteGuid>
+    <noteDirName>DotSpatial中Shp文件的中文属性表读取写入相关</noteDirName>
+    <noteFileName>DotSpatial中Shp文件的中文属性表读取写入相关.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>dotspatial加载在线地图的步骤</noteName>
+    <noteGuid>3fcd1226-dc67-48fd-aef5-c52d1de45f23</noteGuid>
+    <noteDirName>dotspatial加载在线地图的步骤</noteDirName>
+    <noteFileName>dotspatial加载在线地图的步骤.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>附 天地图的请求格式</noteName>
+    <noteGuid>b67ea5fa-bcc5-4dd8-b8c3-32e53919ccf5</noteGuid>
+    <noteDirName>附 天地图的请求格式</noteDirName>
+    <noteFileName>附 天地图的请求格式.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial-bugs and edits_2</noteName>
+    <noteGuid>f5d8ffd4-9fba-4e49-a153-e882ff1616d4</noteGuid>
+    <noteDirName>DotSpatial-bugs and edits_2</noteDirName>
+    <noteFileName>DotSpatial-bugs and edits_2.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>GdalImage2.cs</string>
+      <string>GdalImageProvider2.cs</string>
+      <string>GdalImageSource2.cs</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial移动图层顺序</noteName>
+    <noteGuid>13948185-cdec-4094-8b43-dd28a4e922a3</noteGuid>
+    <noteDirName>DotSpatial移动图层顺序</noteDirName>
+    <noteFileName>DotSpatial移动图层顺序.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial里的序列化与反序列化（以图层序号化设置与Label设置）</noteName>
+    <noteGuid>68bae523-8cdb-448b-98e6-580f5de297c4</noteGuid>
+    <noteDirName>DotSpatial里的序列化与反序列化（以图层序号化设置与Label设置）</noteDirName>
+    <noteFileName>DotSpatial里的序列化与反序列化（以图层序号化设置与Label设置）.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial某版本中GdalImageSource里的ReadPaletteBuffered存在BUG</noteName>
+    <noteGuid>f53110c1-4a05-4754-82da-80f37d0c23e3</noteGuid>
+    <noteDirName>DotSpatial某版本中GdalImageSource里的ReadPaletteBuffered存在BUG</noteDirName>
+    <noteFileName>DotSpatial某版本中GdalImageSource里的ReadPaletteBuffered存在BUG.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial中 PyramidImage类的CreateHeaders函数修改</noteName>
+    <noteGuid>d2aee7f9-fd42-4944-abe8-940f51abaff7</noteGuid>
+    <noteDirName>DotSpatial中 PyramidImage类的CreateHeaders函数修改</noteDirName>
+    <noteFileName>DotSpatial中 PyramidImage类的CreateHeaders函数修改.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial中PyramidImage中CreatePyramids修改</noteName>
+    <noteGuid>068776db-923d-455b-9d03-0ce9b0bd187b</noteGuid>
+    <noteDirName>DotSpatial中PyramidImage中CreatePyramids修改</noteDirName>
+    <noteFileName>DotSpatial中PyramidImage中CreatePyramids修改.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial里新建多边形，切割岛屿，修改多边形示例代码</noteName>
+    <noteGuid>f21e4a40-67d0-4692-86f4-1d80c39afaf2</noteGuid>
+    <noteDirName>DotSpatial里新建多边形，切割岛屿，修改多边形示例代码</noteDirName>
+    <noteFileName>DotSpatial里新建多边形，切割岛屿，修改多边形示例代码.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>AddPolygon.cs</string>
+      <string>CutPolygon.cs</string>
+      <string>EditPolygon.cs</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial-bugs and edits_3  (MapFunctionSelect)</noteName>
+    <noteGuid>5f6ebece-371b-46c2-9305-3f3b71dd20e0</noteGuid>
+    <noteDirName>DotSpatial-bugs and edits_3  (MapFunctionSelect)</noteDirName>
+    <noteFileName>DotSpatial-bugs and edits_3  (MapFunctionSelect).v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial-bugs and edits_4  (WorldFile)</noteName>
+    <noteGuid>c351135c-6bd2-4ab7-a4db-152907753d67</noteGuid>
+    <noteDirName>DotSpatial-bugs and edits_4  (WorldFile)</noteDirName>
+    <noteFileName>DotSpatial-bugs and edits_4  (WorldFile).v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>关于Dotspatial里FeatureSet.Features的运行效率</noteName>
+    <noteGuid>c27bd44a-f9a7-4a6e-afce-017146a43297</noteGuid>
+    <noteDirName>关于Dotspatial里FeatureSet.Features的运行效率</noteDirName>
+    <noteFileName>关于Dotspatial里FeatureSet.Features的运行效率.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial下对Geometry做重投影（以Polygon为例）</noteName>
+    <noteGuid>d4c1c468-a267-4ce4-891e-efcc2e439f4b</noteGuid>
+    <noteDirName>DotSpatial下对Geometry做重投影（以Polygon为例）</noteDirName>
+    <noteFileName>DotSpatial下对Geometry做重投影（以Polygon为例）.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用C#进行图像处理的几种方法</noteName>
+    <noteGuid>69614629-68a9-4ea4-b7c4-2b517b7536f8</noteGuid>
+    <noteDirName>使用C#进行图像处理的几种方法</noteDirName>
+    <noteFileName>使用C#进行图像处理的几种方法.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>OGR空间要素的自相交及拓扑错误的问题</noteName>
+    <noteGuid>b9a8bf31-b30f-491b-bd34-b5f61fc53f42</noteGuid>
+    <noteDirName>OGR空间要素的自相交及拓扑错误的问题</noteDirName>
+    <noteFileName>OGR空间要素的自相交及拓扑错误的问题.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>OGR中对Shapefile矢量数据进行空间查询</noteName>
+    <noteGuid>380d32b9-cc62-4b99-9535-5f60348f6bfc</noteGuid>
+    <noteDirName>OGR中对Shapefile矢量数据进行空间查询</noteDirName>
+    <noteFileName>OGR中对Shapefile矢量数据进行空间查询.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
