@@ -1,0 +1,9 @@
+Geometry 和Feature的关系：
+Feature：要素，包含空间对象及属性，Geometry则只表示空间对象
+所以Geometry是Feature的一部分
+ 
+Geometry，几种常见的类型是Polygon，LineString，Point，分别对应点，线，面
+ 
+Geometry对象均可使用Coordinates属性（Coordinate类代表一个坐标）方便地获取构成它的点集，其中Polygon对象还可以使用Shell和Holes属性来获取构成其外边界以及内部孔洞的点集
+ 
+Geometry对象可以调用一些空间关系操作函数，例如Within，Cover，Intersects等，用于判断两对象之间的空间关系或者对两个对象进行空间运算

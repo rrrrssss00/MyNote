@@ -1,0 +1,7 @@
+使用OGR组件编辑Shapefile图层中的要素时，如果新加或修改的要素超出原有图层的Extent时，会自动将Extent扩大，但如果修改后的要素范围缩小了，OGR组件不会自动缩小图层的Extent
+
+C#的OGR组件没有直接可供调用的，更新Extent的函数，但可以通过执行
+ds.ExecuteSQL("RECOMPUTE EXTENT ON "+lyr.GetName,null,null);
+来进行更新，其中ds为Datasource，lyr为对应的Layer
+
+另外，ExecuteSQL函数还提供了一系列其它有用的功能，这些功能对于不同的Driver是不一样的，具体提供了哪些功能，调用的格式可以去OGR的源码中查看，找到对应格式的源码即可查看（比如Shapefile，找到ORG源码中的ogrshapedatasource.cpp，查找ExecuteSQL函数，可以看到，Shapefile格式的ExecuteSQL，支持生成空间索引，删除空间索引，修改Layer名称，更新Layer的Extent，详细格式代码中有）
