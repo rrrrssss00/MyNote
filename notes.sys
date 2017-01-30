@@ -4743,4 +4743,647 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>OGR CookBook</noteName>
+    <noteGuid>4130def9-5430-4df8-815b-a2ebf977d155</noteGuid>
+    <noteDirName>OGR CookBook</noteDirName>
+    <noteFileName>OGR CookBook.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>GDAL1.11编译及C#调用OGR中文属性表乱码问题</noteName>
+    <noteGuid>46874cb4-f253-4a8a-a14e-0c1b8f20aaee</noteGuid>
+    <noteDirName>GDAL1.11编译及C#调用OGR中文属性表乱码问题</noteDirName>
+    <noteFileName>GDAL1.11编译及C#调用OGR中文属性表乱码问题.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>Feature.cs</string>
+      <string>Ogr.cs</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>利用GDAL实现影像的几何校正</noteName>
+    <noteGuid>b4c6c29e-243e-4523-a234-03c5f47b4839</noteGuid>
+    <noteDirName>利用GDAL实现影像的几何校正</noteDirName>
+    <noteFileName>利用GDAL实现影像的几何校正.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>GDAL中GDAL_DATA环境变量设置的问题（C#）</noteName>
+    <noteGuid>74fb03cb-c37c-40c5-aabd-a563566a96a3</noteGuid>
+    <noteDirName>GDAL中GDAL_DATA环境变量设置的问题（C#）</noteDirName>
+    <noteFileName>GDAL中GDAL_DATA环境变量设置的问题（C#）.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>OGR库中的polygon与multipolygon</noteName>
+    <noteGuid>3a3e269d-a5fe-4318-937d-3b9395b0ee7d</noteGuid>
+    <noteDirName>OGR库中的polygon与multipolygon</noteDirName>
+    <noteFileName>OGR库中的polygon与multipolygon.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在C++中使用GDAL</noteName>
+    <noteGuid>4be843a5-264f-4ef1-ae4c-d6a2a7b7ad37</noteGuid>
+    <noteDirName>在C++中使用GDAL</noteDirName>
+    <noteFileName>在C++中使用GDAL.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>GDAL中IMG格式（HFA）中的坐标信息</noteName>
+    <noteGuid>70b13c91-9ca8-496d-8595-14812a9e0ff4</noteGuid>
+    <noteDirName>GDAL中IMG格式（HFA）中的坐标信息</noteDirName>
+    <noteFileName>GDAL中IMG格式（HFA）中的坐标信息.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>OGR 更新Shapefile图层的Extent &amp; ExecuteSQL的用处</noteName>
+    <noteGuid>f3b45460-df1c-4284-8b8a-5fba58d36665</noteGuid>
+    <noteDirName>OGR 更新Shapefile图层的Extent &amp; ExecuteSQL的用处</noteDirName>
+    <noteFileName>OGR 更新Shapefile图层的Extent &amp; ExecuteSQL的用处.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>gdal 64位的编译</noteName>
+    <noteGuid>799cc02d-d7b6-4d4d-bf76-9bb2a20109aa</noteGuid>
+    <noteDirName>gdal 64位的编译</noteDirName>
+    <noteFileName>gdal 64位的编译.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>GDAL的调试</noteName>
+    <noteGuid>8a387353-c762-463c-b8ad-0813b5dbbfac</noteGuid>
+    <noteDirName>GDAL的调试</noteDirName>
+    <noteFileName>GDAL的调试.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#引用GDAL库时，将GDAL库的DLL文件从程序目录移到其它目录的方法（还能自动根据平台切换X64或X86版本的DLL）</noteName>
+    <noteGuid>195e4bcf-d920-4672-8201-3f7056fe3e2e</noteGuid>
+    <noteDirName>C#引用GDAL库时，将GDAL库的DLL文件从程序目录移到其它目录的方法（还能自动根据平台切换X64或X86版本的DLL）</noteDirName>
+    <noteFileName>C#引用GDAL库时，将GDAL库的DLL文件从程序目录移到其它目录的方法（还能自动根据平台切换X64或X86版本的DLL）.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>OGR库运算时遇到的TopologyException  found non-noded intersection between LineString ……问题</noteName>
+    <noteGuid>83ebfe22-a290-4f7c-90ec-bcf3337ed54a</noteGuid>
+    <noteDirName>OGR库运算时遇到的TopologyException  found non-noded intersection between LineString ……问题</noteDirName>
+    <noteFileName>OGR库运算时遇到的TopologyException  found non-noded intersection between LineString ……问题.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2、VTK编译安装</noteName>
+    <noteGuid>4679cf80-a81b-42b3-9ba3-6f5a5a337e86</noteGuid>
+    <noteDirName>2、VTK编译安装</noteDirName>
+    <noteFileName>2、VTK编译安装.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+      <string>ffb0994d-dee4-4e07-9682-7f43089b9d05</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>VTK在编译时可能遇到的几个问题</noteName>
+    <noteGuid>1ccf39e4-80e2-495f-acb8-2cccacd7767e</noteGuid>
+    <noteDirName>VTK在编译时可能遇到的几个问题</noteDirName>
+    <noteFileName>VTK在编译时可能遇到的几个问题.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+      <string>ffb0994d-dee4-4e07-9682-7f43089b9d05</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>VTK的C#调用---ActiViz，相关资源</noteName>
+    <noteGuid>4af4b7de-738d-4b71-868d-3c791bef4bae</noteGuid>
+    <noteDirName>VTK的C#调用---ActiViz，相关资源</noteDirName>
+    <noteFileName>VTK的C#调用---ActiViz，相关资源.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>ffb0994d-dee4-4e07-9682-7f43089b9d05</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>VTK系列教程</noteName>
+    <noteGuid>15cc56b3-9363-480c-ad7a-fb8a434134ab</noteGuid>
+    <noteDirName>VTK系列教程</noteDirName>
+    <noteFileName>VTK系列教程.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>ffb0994d-dee4-4e07-9682-7f43089b9d05</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Windows下利用CMake和VS2013编译OpenCV</noteName>
+    <noteGuid>a49f1aa2-bc5b-4700-b156-aae369a0a833</noteGuid>
+    <noteDirName>Windows下利用CMake和VS2013编译OpenCV</noteDirName>
+    <noteFileName>Windows下利用CMake和VS2013编译OpenCV.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>5e2e313b-bc08-4282-8fd0-71a29e210a56</string>
+      <string>ffb0994d-dee4-4e07-9682-7f43089b9d05</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在C#程序中实现插件架构 - Sunmast翻译</noteName>
+    <noteGuid>8bdb08f1-fe10-42cf-8328-7049615c5142</noteGuid>
+    <noteDirName>在C#程序中实现插件架构 - Sunmast翻译</noteDirName>
+    <noteFileName>在C#程序中实现插件架构 - Sunmast翻译.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#的插件开发</noteName>
+    <noteGuid>a0322ebe-0ece-4679-a1f5-f26f14c5504a</noteGuid>
+    <noteDirName>C#的插件开发</noteDirName>
+    <noteFileName>C#的插件开发.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>62006527155316.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>构建插件式的应用程序框架</noteName>
+    <noteGuid>bc3f0754-591d-4bda-8134-de8f5c0c3fb8</noteGuid>
+    <noteDirName>构建插件式的应用程序框架</noteDirName>
+    <noteFileName>构建插件式的应用程序框架.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>PluginSample.rar</string>
+      <string>PluginSample2.rar</string>
+      <string>PluginSample3.rar</string>
+      <string>PluginSample8.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>《Visual C++ 2010入门教程》</noteName>
+    <noteGuid>5a9bdb79-53cf-47cf-8d4d-71b25b1e4865</noteGuid>
+    <noteDirName>《Visual C++ 2010入门教程》</noteDirName>
+    <noteFileName>《Visual C++ 2010入门教程》.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在Visual Studio中使用CUDA 4.0和Thrust</noteName>
+    <noteGuid>88526ed9-925c-4878-87c4-5dbb4c848630</noteGuid>
+    <noteDirName>在Visual Studio中使用CUDA 4.0和Thrust</noteDirName>
+    <noteFileName>在Visual Studio中使用CUDA 4.0和Thrust.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>VS2010+CUDA+5.5+Win7+64位配置以及项目创建配置</noteName>
+    <noteGuid>b54c1448-2dc7-418b-93a2-7e9ef2b08fdc</noteGuid>
+    <noteDirName>VS2010+CUDA+5.5+Win7+64位配置以及项目创建配置</noteDirName>
+    <noteFileName>VS2010+CUDA+5.5+Win7+64位配置以及项目创建配置.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>VS2010+CUDA+5.5+Win7+64位配置以及项目创建配置.docx</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>在.net(C#)中引用native C++(原生C++)DLL的两种方法（一）</noteName>
+    <noteGuid>fa453e63-d290-4749-a61d-b4ea79adaa04</noteGuid>
+    <noteDirName>在.net(C#)中引用native C++(原生C++)DLL的两种方法（一）</noteDirName>
+    <noteFileName>在.net(C#)中引用native C++(原生C++)DLL的两种方法（一）.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C# DllImport的用法</noteName>
+    <noteGuid>5e45bbc0-4896-4118-9627-07ec0ea5e158</noteGuid>
+    <noteDirName>C# DllImport的用法</noteDirName>
+    <noteFileName>C# DllImport的用法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在.net(C#)中引用native C++(原生C++)DLL的两种方法（二）</noteName>
+    <noteGuid>9c87102f-3960-4639-9e4e-f8efc06981ee</noteGuid>
+    <noteDirName>在.net(C#)中引用native C++(原生C++)DLL的两种方法（二）</noteDirName>
+    <noteFileName>在.net(C#)中引用native C++(原生C++)DLL的两种方法（二）.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>TestDllUse.rar</string>
+      <string>TestDllWrap.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#引用C++的DLL，String参数转换的问题</noteName>
+    <noteGuid>850ecce2-7dda-4b63-b57b-707cbdd51021</noteGuid>
+    <noteDirName>C#引用C++的DLL，String参数转换的问题</noteDirName>
+    <noteFileName>C#引用C++的DLL，String参数转换的问题.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>ILNumerics库DLL的破解（使用ildasm及ilasm）</noteName>
+    <noteGuid>42aaa118-dcde-436b-ab01-0e35ead69a64</noteGuid>
+    <noteDirName>ILNumerics库DLL的破解（使用ildasm及ilasm）</noteDirName>
+    <noteFileName>ILNumerics库DLL的破解（使用ildasm及ilasm）.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>msvcr120.dll</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>反编译工作Reflector的替代</noteName>
+    <noteGuid>b8bb9021-6812-4b87-9784-5f0c50fd48cf</noteGuid>
+    <noteDirName>反编译工作Reflector的替代</noteDirName>
+    <noteFileName>反编译工作Reflector的替代.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>AForge.NET</noteName>
+    <noteGuid>2ebf609d-3913-40cb-adbd-7b5e5c3f7cd0</noteGuid>
+    <noteDirName>AForge.NET</noteDirName>
+    <noteFileName>AForge.NET.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#开发奇技淫巧三:把dll放在不同的目录让你的程序更整洁</noteName>
+    <noteGuid>55310f28-24f2-4c32-b2e8-58dc2bced867</noteGuid>
+    <noteDirName>C#开发奇技淫巧三 把dll放在不同的目录让你的程序更整洁</noteDirName>
+    <noteFileName>C#开发奇技淫巧三 把dll放在不同的目录让你的程序更整洁.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在C#中应用Aspose读取或写入Word文档（doc,docx）</noteName>
+    <noteGuid>272bfadd-4368-4680-9c55-aaaa88495e9b</noteGuid>
+    <noteDirName>在C#中应用Aspose读取或写入Word文档（doc,docx）</noteDirName>
+    <noteFileName>在C#中应用Aspose读取或写入Word文档（doc,docx）.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>Aspose.Words16.7.zip</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>新型序列化类库MessagePack，比JSON更快、更小的格式</noteName>
+    <noteGuid>44daaa85-ec49-4b51-add3-c73933ab61fd</noteGuid>
+    <noteDirName>新型序列化类库MessagePack，比JSON更快、更小的格式</noteDirName>
+    <noteFileName>新型序列化类库MessagePack，比JSON更快、更小的格式.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>ArcGIS Server 10.1 安装记录</noteName>
+    <noteGuid>0271772f-3003-43f6-a2fc-6726de5bd16c</noteGuid>
+    <noteDirName>ArcGIS Server 10.1 安装记录</noteDirName>
+    <noteFileName>ArcGIS Server 10.1 安装记录.v</noteFileName>
+    <tagGuidLst>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>[转]ARCGIS拓扑检查步骤</noteName>
+    <noteGuid>05604892-9f71-4056-83b8-449d2b2a6c6f</noteGuid>
+    <noteDirName>[转]ARCGIS拓扑检查步骤</noteDirName>
+    <noteFileName>[转]ARCGIS拓扑检查步骤.v</noteFileName>
+    <tagGuidLst>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>分布式部署 ArcSDE 和 Oracle 服务</noteName>
+    <noteGuid>e232e57f-3b52-48f1-a8a4-dd61743697ff</noteGuid>
+    <noteDirName>分布式部署 ArcSDE 和 Oracle 服务</noteDirName>
+    <noteFileName>分布式部署 ArcSDE 和 Oracle 服务.v</noteFileName>
+    <tagGuidLst>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>ArcMap10.0里计算点图层的经纬度坐标或面图层的中心点经纬度,并转到指定的格式</noteName>
+    <noteGuid>fda40e10-2886-47bd-b702-58ef80bff56d</noteGuid>
+    <noteDirName>ArcMap10.0里计算点图层的经纬度坐标或面图层的中心点经纬度,并转到指定的格式</noteDirName>
+    <noteFileName>ArcMap10.0里计算点图层的经纬度坐标或面图层的中心点经纬度,并转到指定的格式.docx</noteFileName>
+    <tagGuidLst>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在SDE中新建SDO_Geometry的图层</noteName>
+    <noteGuid>af3f7d41-2fe1-4fef-a9d1-e3e7eddcf0e5</noteGuid>
+    <noteDirName>在SDE中新建SDO_Geometry的图层</noteDirName>
+    <noteFileName>在SDE中新建SDO_Geometry的图层.docx</noteFileName>
+    <tagGuidLst>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>ArcGIS 10.1中的Desktop连接ArcSDE——以Oracle为例</noteName>
+    <noteGuid>72db4b6d-8ebb-4145-9b7f-5c68cce65f6c</noteGuid>
+    <noteDirName>ArcGIS 10.1中的Desktop连接ArcSDE——以Oracle为例</noteDirName>
+    <noteFileName>ArcGIS 10.1中的Desktop连接ArcSDE——以Oracle为例.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>ArcGIS Engine10.1 sde 连接</noteName>
+    <noteGuid>d68a5316-c0fe-4dcf-8129-d42b6cceb526</noteGuid>
+    <noteDirName>ArcGIS Engine10.1 sde 连接</noteDirName>
+    <noteFileName>ArcGIS Engine10.1 sde 连接.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>调用Win8自带屏幕键盘，定位</noteName>
+    <noteGuid>e4060db5-5534-43de-8272-e18d768592b2</noteGuid>
+    <noteDirName>调用Win8自带屏幕键盘，定位</noteDirName>
+    <noteFileName>调用Win8自带屏幕键盘，定位.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>JPEG World File Format</noteName>
+    <noteGuid>02f9a6b2-ca61-4737-b1db-cdebf82a3e1d</noteGuid>
+    <noteDirName>JPEG World File Format</noteDirName>
+    <noteFileName>JPEG World File Format.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>基于GPU的高分一号影像正射校正的设计与实现</noteName>
+    <noteGuid>90f428ce-bd2a-46b1-b78c-4f7cf6affa4d</noteGuid>
+    <noteDirName>基于GPU的高分一号影像正射校正的设计与实现</noteDirName>
+    <noteFileName>基于GPU的高分一号影像正射校正的设计与实现.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用 OllyDbg破解C++编写的EXE文件</noteName>
+    <noteGuid>12fc4ec8-46ff-48f8-955a-3bf6d3fcc337</noteGuid>
+    <noteDirName>使用 OllyDbg破解C++编写的EXE文件</noteDirName>
+    <noteFileName>使用 OllyDbg破解C++编写的EXE文件.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>OD入门系列图文详细教程-破解做辅助起步.doc</string>
+      <string>基本流程.docx</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>将OpenGL渲染的图像保存到本地</noteName>
+    <noteGuid>a7d99766-9107-48e3-886a-e05305161446</noteGuid>
+    <noteDirName>将OpenGL渲染的图像保存到本地</noteDirName>
+    <noteFileName>将OpenGL渲染的图像保存到本地.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>a79a5802-9fbc-4947-85f2-fcaec04f85f8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#自动实现Dll(OCX)控件注册的两种方法</noteName>
+    <noteGuid>e45556a1-2176-44ef-9905-e89e9e778c05</noteGuid>
+    <noteDirName>C#自动实现Dll(OCX)控件注册的两种方法</noteDirName>
+    <noteFileName>C#自动实现Dll(OCX)控件注册的两种方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>VS中“安装和部署项目”生成的快捷方式问题</noteName>
+    <noteGuid>5f557db1-21cf-4e74-aeb3-54fd3d2a667c</noteGuid>
+    <noteDirName>VS中“安装和部署项目”生成的快捷方式问题</noteDirName>
+    <noteFileName>VS中“安装和部署项目”生成的快捷方式问题.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Using XMLType</noteName>
+    <noteGuid>779516d9-027b-48b1-9922-e01d6bac8048</noteGuid>
+    <noteDirName>Using XMLType</noteDirName>
+    <noteFileName>Using XMLType.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#的默认EventHandler以及相应泛型的使用</noteName>
+    <noteGuid>ee644f89-a504-4b54-a002-f74595dc7154</noteGuid>
+    <noteDirName>C#的默认EventHandler以及相应泛型的使用</noteDirName>
+    <noteFileName>C#的默认EventHandler以及相应泛型的使用.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>二值化和边界提取相关</noteName>
+    <noteGuid>34189361-4d7a-410d-97b5-4ee9c8489eec</noteGuid>
+    <noteDirName>二值化和边界提取相关</noteDirName>
+    <noteFileName>二值化和边界提取相关.v</noteFileName>
+    <tagGuidLst>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>基于递归的二值图像连通域像素标记算法.pdf</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>关于GDAL中ReadRaster函数读取多波段影像时的波段顺序</noteName>
+    <noteGuid>e964575b-6f39-4875-93d2-fffbdf6969be</noteGuid>
+    <noteDirName>关于GDAL中ReadRaster函数读取多波段影像时的波段顺序</noteDirName>
+    <noteFileName>关于GDAL中ReadRaster函数读取多波段影像时的波段顺序.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>等角、等积投影</noteName>
+    <noteGuid>a2c1bdd5-0d8d-4531-af67-402e3a63ffac</noteGuid>
+    <noteDirName>等角、等积投影</noteDirName>
+    <noteFileName>等角、等积投影.v</noteFileName>
+    <tagGuidLst>
+      <string>2c537bf5-d45d-46ab-837d-046093b19f29</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>03-4圆锥投影.pdf</string>
+      <string>3-1地图的数学基础.pdf</string>
+      <string>3-2方位投影.pdf</string>
+      <string>3-3圆柱投影&amp;等角.pdf</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle Buffer Cache 中 Keep Pool 说明</noteName>
+    <noteGuid>f2914a45-71c3-4b57-962b-ba39fa3bbf94</noteGuid>
+    <noteDirName>Oracle Buffer Cache 中 Keep Pool 说明</noteDirName>
+    <noteFileName>Oracle Buffer Cache 中 Keep Pool 说明.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>Oracle常见SQL分页实现方案介绍</noteName>
+    <noteGuid>a5ee5619-329b-4b9e-ac7c-99d8a68a7e21</noteGuid>
+    <noteDirName>Oracle常见SQL分页实现方案介绍</noteDirName>
+    <noteFileName>Oracle常见SQL分页实现方案介绍.v</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>

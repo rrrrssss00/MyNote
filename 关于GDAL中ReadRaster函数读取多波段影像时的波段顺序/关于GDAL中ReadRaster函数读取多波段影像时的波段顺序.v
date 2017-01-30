@@ -1,0 +1,2 @@
+关于GDAL中ReadRaster函数读取多波段影像时的波段顺序
+经使用验证，当ReadRaster函数最后三个参数均取0的情况下，读取到的结果是按RRRRRRRRRRRGGGGGGGGGGGGGGGGGBBBBBBBBBBB这样的顺序排列在数组中的，需要进行相应的处理

@@ -124,4 +124,8 @@
     <tagName>opencv</tagName>
     <tagGuid>5e2e313b-bc08-4282-8fd0-71a29e210a56</tagGuid>
   </TagClass>
+  <TagClass>
+    <tagName>vtk</tagName>
+    <tagGuid>ffb0994d-dee4-4e07-9682-7f43089b9d05</tagGuid>
+  </TagClass>
 </ArrayOfTagClass>
