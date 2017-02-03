@@ -5386,4 +5386,14 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>2017年2月日记</noteName>
+    <noteGuid>1d3c113c-d01d-4538-b3d0-8426c5903c3f</noteGuid>
+    <noteDirName>2017年2月日记</noteDirName>
+    <noteFileName>2017年2月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
