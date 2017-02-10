@@ -5406,4 +5406,14 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>全国图书馆参考咨询联盟</noteName>
+    <noteGuid>44a0c070-f7cd-417f-bcc4-08811c33d73f</noteGuid>
+    <noteDirName>全国图书馆参考咨询联盟</noteDirName>
+    <noteFileName>全国图书馆参考咨询联盟.v</noteFileName>
+    <tagGuidLst>
+      <string>3a2d86b2-bc12-4f3a-95d0-e947e82d3d08</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
