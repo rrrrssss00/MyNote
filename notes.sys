@@ -5416,4 +5416,34 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>在DotSpatial中调用GDAL</noteName>
+    <noteGuid>9a39d54d-3284-4d87-9e16-01bedd1ff721</noteGuid>
+    <noteDirName>在DotSpatial中调用GDAL</noteDirName>
+    <noteFileName>在DotSpatial中调用GDAL.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>PyramidRaster.rar</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>在DotSpatial中加载带金字塔的影像</noteName>
+    <noteGuid>0ad674ce-18c0-4c4f-b14e-50f1064c9d09</noteGuid>
+    <noteDirName>在DotSpatial中加载带金字塔的影像</noteDirName>
+    <noteFileName>在DotSpatial中加载带金字塔的影像.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>TestRasterLayer.rar</string>
+    </attachLst>
+  </NoteClass>
 </ArrayOfNoteClass>
