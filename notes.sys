@@ -5446,4 +5446,15 @@
       <string>TestRasterLayer.rar</string>
     </attachLst>
   </NoteClass>
+  <NoteClass>
+    <noteName>ownCloud 6 – 建立自己的私有云储存服务</noteName>
+    <noteGuid>d28bf336-9899-491f-995d-4b051a033c5f</noteGuid>
+    <noteDirName>ownCloud 6 – 建立自己的私有云储存服务</noteDirName>
+    <noteFileName>ownCloud 6 – 建立自己的私有云储存服务.docx</noteFileName>
+    <tagGuidLst>
+      <string>0bb046b7-8fbe-4084-a63b-4f791acdc243</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
