@@ -5457,4 +5457,27 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>EmguCV--图像裁切</noteName>
+    <noteGuid>da7e64a9-337b-4757-a155-e101be83ea19</noteGuid>
+    <noteDirName>EmguCV--图像裁切</noteDirName>
+    <noteFileName>EmguCV--图像裁切.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>5e2e313b-bc08-4282-8fd0-71a29e210a56</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>OpenCV中的矩阵操作（加减乘除均值方差范数转置等）</noteName>
+    <noteGuid>533ea2fa-3487-4293-bd28-8da78bb8d094</noteGuid>
+    <noteDirName>OpenCV中的矩阵操作（加减乘除均值方差范数转置等）</noteDirName>
+    <noteFileName>OpenCV中的矩阵操作（加减乘除均值方差范数转置等）.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>5e2e313b-bc08-4282-8fd0-71a29e210a56</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
