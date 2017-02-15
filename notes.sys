@@ -5480,4 +5480,16 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>EmguCV--截取图像中的一个波段</noteName>
+    <noteGuid>d98604af-4a4d-4baf-aa25-8c360eab8752</noteGuid>
+    <noteDirName>EmguCV--截取图像中的一个波段</noteDirName>
+    <noteFileName>EmguCV--截取图像中的一个波段.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>5e2e313b-bc08-4282-8fd0-71a29e210a56</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
