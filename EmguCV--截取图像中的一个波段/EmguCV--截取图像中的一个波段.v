@@ -1,2 +1,2 @@
 Mat srcMat = new Mat(filePath);
-srcMat.Reshape(1);
+Mat subMat = srcMat.Split()[0];
