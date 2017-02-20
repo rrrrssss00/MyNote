@@ -5492,4 +5492,15 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>灰度共生矩阵GLCM及计算代码</noteName>
+    <noteGuid>073ffe1d-1fc8-4712-95d9-2d6322d661d6</noteGuid>
+    <noteDirName>灰度共生矩阵GLCM及计算代码</noteDirName>
+    <noteFileName>灰度共生矩阵GLCM及计算代码.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
