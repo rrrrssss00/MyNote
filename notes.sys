@@ -5503,4 +5503,24 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>2017年3月日记</noteName>
+    <noteGuid>0b289f3a-c411-4449-9b13-97b4d2064e08</noteGuid>
+    <noteDirName>2017年3月日记</noteDirName>
+    <noteFileName>2017年3月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2017年3月</noteName>
+    <noteGuid>628aeef0-f491-42e2-8c3e-f7b8c826e715</noteGuid>
+    <noteDirName>2017年3月</noteDirName>
+    <noteFileName>2017年3月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
