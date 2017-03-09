@@ -15,3 +15,6 @@ tmpPntLayer.ShowLabels = !tmpPntLayer.ShowLabels;
  
 ３：清除Ｌａｂｅｌ
 map1.ClearLabels(tmpPntLayer);
+
+4：部分情况下，Label显示不全，可以使用下面的语句强制显示
+ ((FeatureLayer)tmpPntLayer).LabelLayer.CreateLabels();
