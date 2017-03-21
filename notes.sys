@@ -5332,6 +5332,7 @@
     <noteFileName>二值化和边界提取相关.v</noteFileName>
     <tagGuidLst>
       <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+      <string>9f0235e1-7100-48e8-90ca-4b372fe3bf3c</string>
     </tagGuidLst>
     <attachLst>
       <string>基于递归的二值图像连通域像素标记算法.pdf</string>
@@ -5500,6 +5501,7 @@
     <tagGuidLst>
       <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
       <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+      <string>9f0235e1-7100-48e8-90ca-4b372fe3bf3c</string>
     </tagGuidLst>
     <attachLst />
   </NoteClass>
@@ -5520,6 +5522,39 @@
     <noteFileName>2017年3月.v</noteFileName>
     <tagGuidLst>
       <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>目标检测的图像特征提取--HOG特征</noteName>
+    <noteGuid>5ebbcd8f-9507-401a-9069-3bda2b3161de</noteGuid>
+    <noteDirName>目标检测的图像特征提取--HOG特征</noteDirName>
+    <noteFileName>目标检测的图像特征提取--HOG特征.docx</noteFileName>
+    <tagGuidLst>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+      <string>9f0235e1-7100-48e8-90ca-4b372fe3bf3c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>目标检测的图像特征提取--LBP特征</noteName>
+    <noteGuid>56da70b1-8ac4-4fab-8137-49f3a24bc781</noteGuid>
+    <noteDirName>目标检测的图像特征提取--LBP特征</noteDirName>
+    <noteFileName>目标检测的图像特征提取--LBP特征.docx</noteFileName>
+    <tagGuidLst>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+      <string>9f0235e1-7100-48e8-90ca-4b372fe3bf3c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>目标检测的图像特征提取--Haar特征&amp;Adaboost</noteName>
+    <noteGuid>506d1fd5-136c-4758-bf49-755589094d9e</noteGuid>
+    <noteDirName>目标检测的图像特征提取--Haar特征&amp;Adaboost</noteDirName>
+    <noteFileName>目标检测的图像特征提取--Haar特征&amp;Adaboost.docx</noteFileName>
+    <tagGuidLst>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+      <string>9f0235e1-7100-48e8-90ca-4b372fe3bf3c</string>
     </tagGuidLst>
     <attachLst />
   </NoteClass>

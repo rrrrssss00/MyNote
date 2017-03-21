@@ -77,6 +77,10 @@
     <tagGuid>6858da61-2258-4c8c-9b78-d3af7b243cc1</tagGuid>
   </TagClass>
   <TagClass>
+    <tagName>算法--计算机图形学</tagName>
+    <tagGuid>9f0235e1-7100-48e8-90ca-4b372fe3bf3c</tagGuid>
+  </TagClass>
+  <TagClass>
     <tagName>mongodb</tagName>
     <tagGuid>6f80872a-5174-4ce9-8798-40bad5e60bb5</tagGuid>
   </TagClass>
