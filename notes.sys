@@ -5558,4 +5558,14 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>matlab编译EXE文件&amp;使用参数包含MAT文件</noteName>
+    <noteGuid>57073ab9-8e09-41ef-b78d-66aac6dc4f05</noteGuid>
+    <noteDirName>matlab编译EXE文件&amp;使用参数包含MAT文件</noteDirName>
+    <noteFileName>matlab编译EXE文件&amp;使用参数包含MAT文件.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
