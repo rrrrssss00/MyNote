@@ -5568,4 +5568,26 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>主成分分析</noteName>
+    <noteGuid>2a578eab-6b40-46b7-90db-ecd9bada242c</noteGuid>
+    <noteDirName>主成分分析</noteDirName>
+    <noteFileName>主成分分析.docx</noteFileName>
+    <tagGuidLst>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+      <string>9f0235e1-7100-48e8-90ca-4b372fe3bf3c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>线性判别分析</noteName>
+    <noteGuid>4b294b13-1bb0-419b-bb81-0c52e4131b30</noteGuid>
+    <noteDirName>线性判别分析</noteDirName>
+    <noteFileName>线性判别分析.docx</noteFileName>
+    <tagGuidLst>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+      <string>9f0235e1-7100-48e8-90ca-4b372fe3bf3c</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
