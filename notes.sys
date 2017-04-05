@@ -5590,4 +5590,24 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>2017年4月</noteName>
+    <noteGuid>c4577202-137f-45a2-a048-8fe3e103e6f8</noteGuid>
+    <noteDirName>2017年4月</noteDirName>
+    <noteFileName>2017年4月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2017年4月日记</noteName>
+    <noteGuid>0b9f28be-d700-42ad-a586-786eaf40bcc1</noteGuid>
+    <noteDirName>2017年4月日记</noteDirName>
+    <noteFileName>2017年4月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
