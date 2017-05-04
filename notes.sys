@@ -5610,4 +5610,24 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>2017年5月</noteName>
+    <noteGuid>926d8ed4-de75-42fa-b455-3f30e100d808</noteGuid>
+    <noteDirName>2017年5月</noteDirName>
+    <noteFileName>2017年5月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2017年5月日记</noteName>
+    <noteGuid>fe3d327a-188a-4cf4-a3e3-052cd06e9f4c</noteGuid>
+    <noteDirName>2017年5月日记</noteDirName>
+    <noteFileName>2017年5月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
