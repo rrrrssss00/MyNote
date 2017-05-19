@@ -11,3 +11,8 @@ https://vpnso.com
 http://www.greenvpn.wang/
 https://github.com/XX-net/XX-Net   goagent 傻瓜版
 
+深蓝
+https://www.shenlan.cool
+ffffdddd12
+wyzwyz969@163.com
+hh^%&^%0	
