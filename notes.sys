@@ -5693,4 +5693,15 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>puremvc¿ò¼ÜÊ¾Àý</noteName>
+    <noteGuid>2e2eb302-3dfc-4c0d-b362-96907bad9306</noteGuid>
+    <noteDirName>puremvc¿ò¼ÜÊ¾Àý</noteDirName>
+    <noteFileName>puremvc¿ò¼ÜÊ¾Àý.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
