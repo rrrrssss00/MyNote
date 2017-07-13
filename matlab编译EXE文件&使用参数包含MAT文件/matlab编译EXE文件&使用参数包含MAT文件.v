@@ -7,5 +7,7 @@
 
 注：可以使用参数-a 来添加一些自动分析不出来的外部文件，例如.fig,.mat或使用feval调用的m文件等，例如 
 	mcc -m test.m -a icon.mat
+    -a同样可以添加文件夹例如 
+    	mcc -m test.m -a icon.mat -a ./colormaps
 
 第二种使用Matlab自带的Package工具，在主窗体的APPS页面下，点击Package App，有图形化界面操作
