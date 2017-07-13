@@ -5704,4 +5704,16 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>控制反转IOC模式以及开源框架Autofac</noteName>
+    <noteGuid>57409c12-557b-4268-9e85-5bc089009e88</noteGuid>
+    <noteDirName>控制反转IOC模式以及开源框架Autofac</noteDirName>
+    <noteFileName>控制反转IOC模式以及开源框架Autofac.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
