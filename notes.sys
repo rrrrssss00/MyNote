@@ -5716,4 +5716,26 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>PostgreSQL-XC分布式数据库改进--微信支付商户系统架构背后的故事</noteName>
+    <noteGuid>73ea74c6-798f-4981-bafa-c55a6840713c</noteGuid>
+    <noteDirName>PostgreSQL-XC分布式数据库改进--微信支付商户系统架构背后的故事</noteDirName>
+    <noteFileName>PostgreSQL-XC分布式数据库改进--微信支付商户系统架构背后的故事.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>28fa45f4-ca51-4c6d-9581-cb497cd3bb9e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>大并发的高效检索及写入架构--云计算框架</noteName>
+    <noteGuid>09b44581-f0a8-4036-a49f-5117db95a8b0</noteGuid>
+    <noteDirName>大并发的高效检索及写入架构--云计算框架</noteDirName>
+    <noteFileName>大并发的高效检索及写入架构--云计算框架.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
