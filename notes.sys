@@ -5738,4 +5738,15 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>Python3.6.1安装cx_Oracle</noteName>
+    <noteGuid>a6c9e17a-881e-41bc-afdc-69a928948415</noteGuid>
+    <noteDirName>Python3.6.1安装cx_Oracle</noteDirName>
+    <noteFileName>Python3.6.1安装cx_Oracle.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>3da5e0cd-9b88-46f0-854e-9693b73b88bb</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>

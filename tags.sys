@@ -132,4 +132,8 @@
     <tagName>vtk</tagName>
     <tagGuid>ffb0994d-dee4-4e07-9682-7f43089b9d05</tagGuid>
   </TagClass>
+  <TagClass>
+    <tagName>Python</tagName>
+    <tagGuid>3da5e0cd-9b88-46f0-854e-9693b73b88bb</tagGuid>
+  </TagClass>
 </ArrayOfTagClass>
