@@ -5760,4 +5760,18 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>面向对象影像分割基本算法</noteName>
+    <noteGuid>2b08a54b-e871-4601-8822-8d852ead642f</noteGuid>
+    <noteDirName>面向对象影像分割基本算法</noteDirName>
+    <noteFileName>面向对象影像分割基本算法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+      <string>9f0235e1-7100-48e8-90ca-4b372fe3bf3c</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>面向对象影像分析简要介绍--以eCognition为例.doc</string>
+    </attachLst>
+  </NoteClass>
 </ArrayOfNoteClass>
