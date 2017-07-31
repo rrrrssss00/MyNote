@@ -5817,4 +5817,17 @@
       <string>空间金字塔池化.docx</string>
     </attachLst>
   </NoteClass>
+  <NoteClass>
+    <noteName>卷积神经网络--反卷积</noteName>
+    <noteGuid>0883f4d0-78a7-477f-a03d-b467c7e24cd9</noteGuid>
+    <noteDirName>卷积神经网络--反卷积</noteDirName>
+    <noteFileName>卷积神经网络--反卷积.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+      <string>9f0235e1-7100-48e8-90ca-4b372fe3bf3c</string>
+      <string>320a537c-5f11-4fe2-8dc9-ed2d0fc04c45</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
