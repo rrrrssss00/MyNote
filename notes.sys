@@ -5830,4 +5830,24 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>2017年8月</noteName>
+    <noteGuid>d8195bd4-994f-4d72-bd2a-7545ea394f33</noteGuid>
+    <noteDirName>2017年8月</noteDirName>
+    <noteFileName>2017年8月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2017年8月日记</noteName>
+    <noteGuid>0518dd60-c315-4877-900c-698b808291e1</noteGuid>
+    <noteDirName>2017年8月日记</noteDirName>
+    <noteFileName>2017年8月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
