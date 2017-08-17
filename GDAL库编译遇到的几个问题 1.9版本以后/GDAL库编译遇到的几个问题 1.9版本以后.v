@@ -4,6 +4,10 @@
 LINK : fatal error LNK1123: failure during conversion to COFF
 参考另外一篇文章：解决安装vs2012后vs2010 LINK : fatal error LNK1123: failure during conversion to COFF
  
+二、gdal库的编译前，在namke.opt文件中，需要修改一下编译器的版本
+MSVC=1400
+这里GDAL库的C#组件最好用VS2005编译，否则可能会出现一些奇怪的问题
+
 二、
 接口重定义
 osr\OsrPINVOKE.cs(192,10): error CS0111:
