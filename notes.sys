@@ -5862,4 +5862,16 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>GDAL20之后版本OGR中文属性表乱码</noteName>
+    <noteGuid>da493bf2-a385-4691-a56e-bb1e822c928e</noteGuid>
+    <noteDirName>GDAL20之后版本OGR中文属性表乱码</noteDirName>
+    <noteFileName>GDAL20之后版本OGR中文属性表乱码.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
