@@ -21,4 +21,4 @@ https://pcjericks.github.io/py-gdalogr-cookbook/index.html
 
 三、遇到的问题
 1.如果选择编译后安装，会遇到比较多的问题，其中一个就是上面说到的编译环境问题，这里没有测试，
-2.在使用示例代码的过程中，发现在使用OGR库打开Shp文件时，如果使用Layer.GetFeature(i).GetGeoetryRef()函数，会报错，而使用for fea in Layer则没有问题，不知道具体原因是什么
+2.在使用示例代码的过程中，发现在使用OGR库打开Shp文件时，如果使用Layer.GetFeature(i).GetGeomtryRef()函数，会报错，而需要先获取feature = Layer.GetFeature(i)，再feature.GetGeometryRef()
