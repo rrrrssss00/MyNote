@@ -5874,4 +5874,40 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>python第三方包或库的安装</noteName>
+    <noteGuid>283f0b81-db78-4a5c-a7ea-f6ebba90ea14</noteGuid>
+    <noteDirName>python第三方包或库的安装</noteDirName>
+    <noteFileName>python第三方包或库的安装.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>3da5e0cd-9b88-46f0-854e-9693b73b88bb</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>将python文件打包成EXE--pyinstaller</noteName>
+    <noteGuid>635cf4dc-c47c-42ce-b25f-bd19439fbe00</noteGuid>
+    <noteDirName>将python文件打包成EXE--pyinstaller</noteDirName>
+    <noteFileName>将python文件打包成EXE--pyinstaller.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>3da5e0cd-9b88-46f0-854e-9693b73b88bb</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>在Python中使用GDAL</noteName>
+    <noteGuid>1cd6b3e1-800e-4838-a1e9-7a452fa68309</noteGuid>
+    <noteDirName>在Python中使用GDAL</noteDirName>
+    <noteFileName>在Python中使用GDAL.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+      <string>3da5e0cd-9b88-46f0-854e-9693b73b88bb</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>samples.rar</string>
+    </attachLst>
+  </NoteClass>
 </ArrayOfNoteClass>
