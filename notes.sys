@@ -5910,4 +5910,15 @@
       <string>samples.rar</string>
     </attachLst>
   </NoteClass>
+  <NoteClass>
+    <noteName>pyCharm中python对象的自动提示问题</noteName>
+    <noteGuid>d98c6424-096c-4d12-899e-66279bd2089d</noteGuid>
+    <noteDirName>pyCharm中python对象的自动提示问题</noteDirName>
+    <noteFileName>pyCharm中python对象的自动提示问题.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>3da5e0cd-9b88-46f0-854e-9693b73b88bb</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
