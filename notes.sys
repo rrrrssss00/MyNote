@@ -4840,7 +4840,9 @@
       <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
       <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
     </tagGuidLst>
-    <attachLst />
+    <attachLst>
+      <string>备份ogr中修改的内容_gdal221.rar</string>
+    </attachLst>
   </NoteClass>
   <NoteClass>
     <noteName>gdal 64位的编译</noteName>
