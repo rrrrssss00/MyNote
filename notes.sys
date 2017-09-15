@@ -5943,4 +5943,17 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>puremvc¿ò¼ÜÀý×Ó</noteName>
+    <noteGuid>bd5f7b4a-5768-423e-83ef-526f8866cd08</noteGuid>
+    <noteDirName>puremvc¿ò¼ÜÀý×Ó</noteDirName>
+    <noteFileName>puremvc¿ò¼ÜÀý×Ó.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>Test1.rar</string>
+    </attachLst>
+  </NoteClass>
 </ArrayOfNoteClass>
