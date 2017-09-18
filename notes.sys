@@ -5956,4 +5956,14 @@
       <string>Test1.rar</string>
     </attachLst>
   </NoteClass>
+  <NoteClass>
+    <noteName>分布式数据中间件</noteName>
+    <noteGuid>72ec2bc6-a6da-43f7-aad0-210976f20b6e</noteGuid>
+    <noteDirName>分布式数据中间件</noteDirName>
+    <noteFileName>分布式数据中间件.docx</noteFileName>
+    <tagGuidLst>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
