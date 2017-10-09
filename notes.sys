@@ -5976,4 +5976,54 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>2017年10月日记</noteName>
+    <noteGuid>911c0fdc-51a1-4a7d-ad7a-50b893e71203</noteGuid>
+    <noteDirName>2017年10月日记</noteDirName>
+    <noteFileName>2017年10月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2017年10月</noteName>
+    <noteGuid>340636f3-e256-4701-af0c-17c723975be0</noteGuid>
+    <noteDirName>2017年10月</noteDirName>
+    <noteFileName>2017年10月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DOTA辅助攻略及开坑</noteName>
+    <noteGuid>14ce6f7e-69e4-47fc-9d16-71946160cb45</noteGuid>
+    <noteDirName>DOTA辅助攻略及开坑</noteDirName>
+    <noteFileName>DOTA辅助攻略及开坑.docx</noteFileName>
+    <tagGuidLst>
+      <string>a38d8b2c-a80a-4585-a9bf-0052b6303015</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DOTA光法攻略</noteName>
+    <noteGuid>b6a1e314-3b94-4964-b5fd-b044a5527e88</noteGuid>
+    <noteDirName>DOTA光法攻略</noteDirName>
+    <noteFileName>DOTA光法攻略.docx</noteFileName>
+    <tagGuidLst>
+      <string>a38d8b2c-a80a-4585-a9bf-0052b6303015</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DOTA五号位教科书，第一章--防御塔，圣坛和肉山盾</noteName>
+    <noteGuid>9b125a20-4151-4856-a426-624edf8c474a</noteGuid>
+    <noteDirName>DOTA五号位教科书，第一章--防御塔，圣坛和肉山盾</noteDirName>
+    <noteFileName>DOTA五号位教科书，第一章--防御塔，圣坛和肉山盾.docx</noteFileName>
+    <tagGuidLst>
+      <string>a38d8b2c-a80a-4585-a9bf-0052b6303015</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
