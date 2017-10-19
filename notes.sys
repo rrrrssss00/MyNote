@@ -6026,4 +6026,59 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>为32位的C#程序提升使用内存的限额</noteName>
+    <noteGuid>a1db25f3-ddd2-4bd1-a00c-3fa18d6d4635</noteGuid>
+    <noteDirName>为32位的C#程序提升使用内存的限额</noteDirName>
+    <noteFileName>为32位的C#程序提升使用内存的限额.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>使用LargeAddressAware压榨额外的用户态内存</noteName>
+    <noteGuid>77af7c1f-bb13-4c2d-b1c0-073588befb46</noteGuid>
+    <noteDirName>使用LargeAddressAware压榨额外的用户态内存</noteDirName>
+    <noteFileName>使用LargeAddressAware压榨额外的用户态内存.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#-内存映射文件1</noteName>
+    <noteGuid>7ea66e18-108b-4c2a-be01-743adacd6e2d</noteGuid>
+    <noteDirName>C#-内存映射文件1</noteDirName>
+    <noteFileName>C#-内存映射文件1.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#-内存映射文件2</noteName>
+    <noteGuid>6a386070-3dc4-4e35-bfda-91f5d6e055a3</noteGuid>
+    <noteDirName>C#-内存映射文件2</noteDirName>
+    <noteFileName>C#-内存映射文件2.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#-内存映射文件-概述</noteName>
+    <noteGuid>d4c5928a-9682-4b40-9adb-1f9d5df8649f</noteGuid>
+    <noteDirName>C#-内存映射文件-概述</noteDirName>
+    <noteFileName>C#-内存映射文件-概述.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
