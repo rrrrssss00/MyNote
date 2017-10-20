@@ -6110,4 +6110,15 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>C++Ñ§Ï°£­£±</noteName>
+    <noteGuid>33e69436-8695-441f-a6b1-191554e9b618</noteGuid>
+    <noteDirName>C++Ñ§Ï°£­£±</noteDirName>
+    <noteFileName>C++Ñ§Ï°£­£±.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
