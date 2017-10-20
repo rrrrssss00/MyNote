@@ -6098,4 +6098,16 @@
       <string>最小二乘法的基本原理和多项式拟合.doc</string>
     </attachLst>
   </NoteClass>
+  <NoteClass>
+    <noteName>使用GDAL进行RPC坐标转换</noteName>
+    <noteGuid>c94c2337-4cac-4306-98bb-795cfc56281b</noteGuid>
+    <noteDirName>使用GDAL进行RPC坐标转换</noteDirName>
+    <noteFileName>使用GDAL进行RPC坐标转换.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
