@@ -6081,4 +6081,21 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>卫星遥感影像RPC学习-1</noteName>
+    <noteGuid>8185eab4-60f8-4394-baa0-78dabc2b3d41</noteGuid>
+    <noteDirName>卫星遥感影像RPC学习-1</noteDirName>
+    <noteFileName>卫星遥感影像RPC学习-1.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>6858da61-2258-4c8c-9b78-d3af7b243cc1</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>RPC校正方法研究_刘江.pdf</string>
+      <string>基于RPC模型的IKONOS卫星影像高精度立体定位_刘军.pdf</string>
+      <string>基于RPC模型的QuickBird影像正射纠正研究_王海侠.pdf</string>
+      <string>卫星遥感影像RPC参数求解算法研究_张过.pdf</string>
+      <string>最小二乘法的基本原理和多项式拟合.doc</string>
+    </attachLst>
+  </NoteClass>
 </ArrayOfNoteClass>
