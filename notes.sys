@@ -6121,4 +6121,28 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>OGR获取空间对像的所有子对象（主要针对Polygon图层）</noteName>
+    <noteGuid>33567c53-3436-4deb-8068-ab933ce31621</noteGuid>
+    <noteDirName>OGR获取空间对像的所有子对象</noteDirName>
+    <noteFileName>OGR获取空间对像的所有子对象.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>OGR复制Shapefile图层</noteName>
+    <noteGuid>19538653-ae3c-45f5-9214-4186a239d917</noteGuid>
+    <noteDirName>OGR复制Shapefile图层</noteDirName>
+    <noteFileName>OGR复制Shapefile图层.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>d01841f0-af5e-42ec-86bc-9bafdaa67da8</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
