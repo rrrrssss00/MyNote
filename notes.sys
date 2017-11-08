@@ -6121,4 +6121,24 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>2017年11月日记</noteName>
+    <noteGuid>f5a64646-bd71-4e69-ba71-78d2b36704f5</noteGuid>
+    <noteDirName>2017年11月日记</noteDirName>
+    <noteFileName>2017年11月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2017年11月</noteName>
+    <noteGuid>ed94b553-3160-4c23-b048-70b32d7369ae</noteGuid>
+    <noteDirName>2017年11月</noteDirName>
+    <noteFileName>2017年11月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
