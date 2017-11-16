@@ -9,6 +9,23 @@ MapPointLayer tmpPntLayer = (MapPointLayer)map1.Layers[0];
   tmpLabelSym.Orientation = ContentAlignment.TopCenter;
   tmpLabelSym.OffsetY = 9;
   ((IMapPointLayer)layer).AddLabels("[name]", "",tmpLabelSym,"");
+  
+  也可以尝试这种方式
+
+   private void AddLabels(IFeatureLayer lyrlayer)
+        {
+            IMapLabelLayer labelLayer = new MapLabelLayer();
+            ILabelCategory category = labelLayer.Symbology.Categories[0];
+            category.Expression = "[Label]";
+            //category.Symbolizer.Orientation = ContentAlignment.TopLeft;
+            category.Symbolizer.FontSize = 8;
+            category.Symbolizer.FontColor = Color.Black;
+            category.Symbolizer.OffsetY = 12;
+            category.Symbolizer.BackColorEnabled = true;
+            category.Symbolizer.BackColor = Color.White;
+            lyrlayer.ShowLabels = true;
+            lyrlayer.LabelLayer = labelLayer;
+        }
  
 ２：控制Ｌａｂｅｌ是否可见
 tmpPntLayer.ShowLabels = !tmpPntLayer.ShowLabels;
