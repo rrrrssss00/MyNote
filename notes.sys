@@ -6257,4 +6257,15 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>C#中的委托delegate和事件event</noteName>
+    <noteGuid>bc4b1c8f-8b68-4f29-ac8a-6c924233a93d</noteGuid>
+    <noteDirName>C#中的委托delegate和事件event</noteDirName>
+    <noteFileName>C#中的委托delegate和事件event.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
