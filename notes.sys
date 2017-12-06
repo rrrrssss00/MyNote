@@ -6185,4 +6185,76 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>C#写PDF文件类库PDF File Writer介绍</noteName>
+    <noteGuid>bdd31743-170b-4c32-b78f-1ab686aa2119</noteGuid>
+    <noteDirName>C#写PDF文件类库PDF File Writer介绍</noteDirName>
+    <noteFileName>C#写PDF文件类库PDF File Writer介绍.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#文档数据库RavenDB-介绍与初体验</noteName>
+    <noteGuid>368207ee-0cb8-4916-85a4-545c07f1642a</noteGuid>
+    <noteDirName>C#文档数据库RavenDB-介绍与初体验</noteDirName>
+    <noteFileName>C#文档数据库RavenDB-介绍与初体验.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#最快的对象映射组件Tiny Mapper</noteName>
+    <noteGuid>9ea2c627-7197-48f6-abe0-f9326ea004ab</noteGuid>
+    <noteDirName>C#最快的对象映射组件Tiny Mapper</noteDirName>
+    <noteFileName>C#最快的对象映射组件Tiny Mapper.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#的FluentValidation验证组件</noteName>
+    <noteGuid>de37d76d-c272-4977-8c80-412f7e154b03</noteGuid>
+    <noteDirName>C#的FluentValidation验证组件</noteDirName>
+    <noteFileName>C#的FluentValidation验证组件.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#的表达式计算组件Expression Evaluator</noteName>
+    <noteGuid>b4f716a9-09c3-4fd7-aaa3-d42c640d66d1</noteGuid>
+    <noteDirName>C#的表达式计算组件Expression Evaluator</noteDirName>
+    <noteFileName>C#的表达式计算组件Expression Evaluator.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>C#的配置文件读写组件SharpConfig</noteName>
+    <noteGuid>858bb046-1b66-4b19-8e75-09d727ba1a89</noteGuid>
+    <noteDirName>C#的配置文件读写组件SharpConfig</noteDirName>
+    <noteFileName>C#的配置文件读写组件SharpConfig.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>6a36447c-6c1a-4907-a545-2b7f094d678e</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
