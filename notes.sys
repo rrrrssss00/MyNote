@@ -6268,4 +6268,15 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>C#--LINQ教程</noteName>
+    <noteGuid>ff0d995a-5545-417e-b568-e2141a5667fd</noteGuid>
+    <noteDirName>C#--LINQ教程</noteDirName>
+    <noteFileName>C#--LINQ教程.docx</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
