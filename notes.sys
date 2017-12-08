@@ -6279,4 +6279,30 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>使用ArcPy创建ArcGIS工具</noteName>
+    <noteGuid>39f40034-ad16-4617-b316-1978a7440c61</noteGuid>
+    <noteDirName>使用ArcPy创建ArcGIS工具</noteDirName>
+    <noteFileName>使用ArcPy创建ArcGIS工具.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+      <string>3da5e0cd-9b88-46f0-854e-9693b73b88bb</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>DelByArea.py</string>
+    </attachLst>
+  </NoteClass>
+  <NoteClass>
+    <noteName>在.net中嵌入Chrome浏览器CEF</noteName>
+    <noteGuid>02fc4266-932d-4b9f-b5d6-b8df99b7c52d</noteGuid>
+    <noteDirName>在.net中嵌入Chrome浏览器</noteDirName>
+    <noteFileName>在.net中嵌入Chrome浏览器.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>da06946c-3296-4aef-a3a5-716e663052ca</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
