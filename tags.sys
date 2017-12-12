@@ -41,10 +41,6 @@
     <tagGuid>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</tagGuid>
   </TagClass>
   <TagClass>
-    <tagName>DevExpress</tagName>
-    <tagGuid>06ab1b88-3dc4-4e1a-a9ba-602a1d9ee81a</tagGuid>
-  </TagClass>
-  <TagClass>
     <tagName>C++</tagName>
     <tagGuid>da06946c-3296-4aef-a3a5-716e663052ca</tagGuid>
   </TagClass>
@@ -59,6 +55,10 @@
   <TagClass>
     <tagName>gis</tagName>
     <tagGuid>2c537bf5-d45d-46ab-837d-046093b19f29</tagGuid>
+  </TagClass>
+  <TagClass>
+    <tagName>Python</tagName>
+    <tagGuid>3da5e0cd-9b88-46f0-854e-9693b73b88bb</tagGuid>
   </TagClass>
   <TagClass>
     <tagName>Java</tagName>
@@ -133,12 +133,12 @@
     <tagGuid>ffb0994d-dee4-4e07-9682-7f43089b9d05</tagGuid>
   </TagClass>
   <TagClass>
-    <tagName>Python</tagName>
-    <tagGuid>3da5e0cd-9b88-46f0-854e-9693b73b88bb</tagGuid>
-  </TagClass>
-  <TagClass>
     <tagName>»úÆ÷Ñ§Ï°</tagName>
     <tagGuid>320a537c-5f11-4fe2-8dc9-ed2d0fc04c45</tagGuid>
+  </TagClass>
+  <TagClass>
+    <tagName>DevExpress</tagName>
+    <tagGuid>06ab1b88-3dc4-4e1a-a9ba-602a1d9ee81a</tagGuid>
   </TagClass>
   <TagClass>
     <tagName>ÓÎÏ·</tagName>

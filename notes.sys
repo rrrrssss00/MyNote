@@ -6305,4 +6305,15 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>python里的异常处理</noteName>
+    <noteGuid>cda610e4-5c66-4bbd-89cd-e2c1deb7d1d9</noteGuid>
+    <noteDirName>python里的异常处理</noteDirName>
+    <noteFileName>python里的异常处理.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>3da5e0cd-9b88-46f0-854e-9693b73b88bb</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
