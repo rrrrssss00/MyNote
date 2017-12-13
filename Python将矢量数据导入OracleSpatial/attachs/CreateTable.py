@@ -56,15 +56,15 @@ def createTable(inputFilename:str,tableNameToCreate:str):
         tmpWidth = tmpfield.GetWidth()      #字段长度
         tmpPrecesion = tmpfield.GetPrecision()  #字段精度，仅对于Real有效
     
-    if(tmpTypeName == "String"):
-        createTableSql += tmpName+" VARCHAR2("+str(tmpWidth)+"),"
-    elif(tmpTypeName == "Real"):
-        createTableSql += tmpName+" number("+str(tmpWidth)+","+str(tmpPrecesion)+"),"
-    elif(tmpTypeName == "Integer"):
-        createTableSql += tmpName+" integer,"
-    else:
-        raise Exception("意外的数据类型:"+tmpName)
-    
+	if(tmpTypeName == "String"):
+  	    createTableSql += tmpName+" VARCHAR2("+str(tmpWidth)+"),"
+	elif(tmpTypeName == "Real"):
+	    createTableSql += tmpName+" number("+str(tmpWidth)+","+str(tmpPrecesion)+"),"
+	elif(tmpTypeName == "Integer"):
+	    createTableSql += tmpName+" integer,"
+	else:
+	    raise Exception("意外的数据类型:"+tmpName)
+	    
     #createTableSql = createTableSql[0:len(createTableSql)-1]+")"
     createTableSql += "shape MDSYS.SDO_GEOMETRY)"
     print("sql:\t"+createTableSql)
