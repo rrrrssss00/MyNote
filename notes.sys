@@ -6316,4 +6316,21 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>Python将矢量数据导入OracleSpatial</noteName>
+    <noteGuid>7e52cedb-8fb5-4da1-bc85-085267b632ec</noteGuid>
+    <noteDirName>Python将矢量数据导入OracleSpatial</noteDirName>
+    <noteFileName>Python将矢量数据导入OracleSpatial.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>aae8a85d-e805-4399-9c85-d2f515749941</string>
+      <string>3da5e0cd-9b88-46f0-854e-9693b73b88bb</string>
+      <string>033e6e63-2d33-440f-8e7c-a766ea6d822d</string>
+    </tagGuidLst>
+    <attachLst>
+      <string>CreateTable.py</string>
+      <string>ImportShp.py</string>
+      <string>ImportShpBulk.py</string>
+    </attachLst>
+  </NoteClass>
 </ArrayOfNoteClass>
