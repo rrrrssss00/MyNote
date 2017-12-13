@@ -46,31 +46,31 @@ def createTable(inputFilename:str,tableNameToCreate:str):
     #endregion
 
     #region 按照图层的字段，拼接出创建表的SQL语句
-        createTableSql = "create table " + tableNameToCreate + " ("
-        #逐个字段拼接字符串
-        fieldCount = lyr.GetLayerDefn().GetFieldCount()
-        for i in range(0, fieldCount):
-            tmpfield = lyr.GetLayerDefn().GetFieldDefn(i)  #type:ogr.FieldDefn
-            tmpName = tmpfield.GetName()  #字段名
-            tmpTypeName = tmpfield.GetTypeName() #字段类型，String,Real,Integer
-            tmpWidth = tmpfield.GetWidth()      #字段长度
-            tmpPrecesion = tmpfield.GetPrecision()  #字段精度，仅对于Real有效
-
-        if(tmpTypeName == "String"):
-            createTableSql += tmpName+" VARCHAR2("+str(tmpWidth)+"),"
-        elif(tmpTypeName == "Real"):
-            createTableSql += tmpName+" number("+str(tmpWidth)+","+str(tmpPrecesion)+"),"
-        elif(tmpTypeName == "Integer"):
-            createTableSql += tmpName+" integer,"
-        else:
-            raise Exception("意外的数据类型:"+tmpName)
-
-        #createTableSql = createTableSql[0:len(createTableSql)-1]+")"
-        createTableSql += "shape MDSYS.SDO_GEOMETRY)"
-        print("sql:\t"+createTableSql)
-        lyr = None
-        #endregion
-
+    createTableSql = "create table " + tableNameToCreate + " ("
+    #逐个字段拼接字符串
+    fieldCount = lyr.GetLayerDefn().GetFieldCount()
+    for i in range(0, fieldCount):
+        tmpfield = lyr.GetLayerDefn().GetFieldDefn(i)  #type:ogr.FieldDefn
+        tmpName = tmpfield.GetName()  #字段名
+        tmpTypeName = tmpfield.GetTypeName() #字段类型，String,Real,Integer
+        tmpWidth = tmpfield.GetWidth()      #字段长度
+        tmpPrecesion = tmpfield.GetPrecision()  #字段精度，仅对于Real有效
+    
+    if(tmpTypeName == "String"):
+        createTableSql += tmpName+" VARCHAR2("+str(tmpWidth)+"),"
+    elif(tmpTypeName == "Real"):
+        createTableSql += tmpName+" number("+str(tmpWidth)+","+str(tmpPrecesion)+"),"
+    elif(tmpTypeName == "Integer"):
+        createTableSql += tmpName+" integer,"
+    else:
+        raise Exception("意外的数据类型:"+tmpName)
+    
+    #createTableSql = createTableSql[0:len(createTableSql)-1]+")"
+    createTableSql += "shape MDSYS.SDO_GEOMETRY)"
+    print("sql:\t"+createTableSql)
+    lyr = None
+    #endregion
+    
     #创建表
     try:
         cur.execute(createTableSql)
