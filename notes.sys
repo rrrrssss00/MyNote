@@ -6333,4 +6333,28 @@
       <string>ImportShpBulk.py</string>
     </attachLst>
   </NoteClass>
+  <NoteClass>
+    <noteName>Dotspatial下在线地图的几个问题及解决方法</noteName>
+    <noteGuid>9a8069e4-1713-444b-b8b7-120c84ba13c4</noteGuid>
+    <noteDirName>Dotspatial下在线地图的几个问题及解决方法</noteDirName>
+    <noteFileName>Dotspatial下在线地图的几个问题及解决方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>DotSpatial中移除图层时不触发RemoveItem事件的解决方法</noteName>
+    <noteGuid>0df093ba-f7f2-4397-9324-ee93763909f4</noteGuid>
+    <noteDirName>DotSpatial中移除图层时不触发RemoveItem事件的解决方法</noteDirName>
+    <noteFileName>DotSpatial中移除图层时不触发RemoveItem事件的解决方法.v</noteFileName>
+    <tagGuidLst>
+      <string>b95a4557-7579-4a97-a364-356e1142b21a</string>
+      <string>65a8244a-4314-487d-b6ea-a5a8db7dd970</string>
+      <string>376a6905-0e14-495e-9b67-26134a857485</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
