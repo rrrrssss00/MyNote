@@ -6357,4 +6357,34 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>arcmap中的符号大小(线宽等)</noteName>
+    <noteGuid>5a882c31-07c9-45be-bd41-42b5ef0bf5ec</noteGuid>
+    <noteDirName>arcmap中的符号大小(线宽等)</noteDirName>
+    <noteFileName>arcmap中的符号大小(线宽等).v</noteFileName>
+    <tagGuidLst>
+      <string>ae9f916b-59ba-4d3a-b1ae-35a2306d31a1</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>17年1月日记</noteName>
+    <noteGuid>d9c1ff6d-aee0-40b3-85f0-416c160904e6</noteGuid>
+    <noteDirName>17年1月日记</noteDirName>
+    <noteFileName>17年1月日记.v</noteFileName>
+    <tagGuidLst>
+      <string>fa015e42-ab11-4638-8c3d-f2583869ec6d</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>18年1月</noteName>
+    <noteGuid>fc968a55-9c86-4837-9aae-e602cceaaa8e</noteGuid>
+    <noteDirName>18年1月</noteDirName>
+    <noteFileName>18年1月.v</noteFileName>
+    <tagGuidLst>
+      <string>f859fdd2-5dd4-44cb-814e-79df276e057b</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
