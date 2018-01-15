@@ -144,4 +144,8 @@
     <tagName>游戏</tagName>
     <tagGuid>a38d8b2c-a80a-4585-a9bf-0052b6303015</tagGuid>
   </TagClass>
+  <TagClass>
+    <tagName>学区房</tagName>
+    <tagGuid>3a4e3a8d-ceb4-4c40-b4f3-ded470d026df</tagGuid>
+  </TagClass>
 </ArrayOfTagClass>

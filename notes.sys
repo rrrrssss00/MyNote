@@ -6387,4 +6387,44 @@
     </tagGuidLst>
     <attachLst />
   </NoteClass>
+  <NoteClass>
+    <noteName>2018海淀学区房形势概述</noteName>
+    <noteGuid>186828a7-0166-4421-97bb-4fcf4cca07f5</noteGuid>
+    <noteDirName>2018海淀学区房形势概述</noteDirName>
+    <noteFileName>2018海淀学区房形势概述.v</noteFileName>
+    <tagGuidLst>
+      <string>3a4e3a8d-ceb4-4c40-b4f3-ded470d026df</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>学校简单信息收集--西城</noteName>
+    <noteGuid>8951ded7-f831-4e9c-b490-811b43bd6de4</noteGuid>
+    <noteDirName>学校简单信息收集--西城</noteDirName>
+    <noteFileName>学校简单信息收集--西城.v</noteFileName>
+    <tagGuidLst>
+      <string>3a4e3a8d-ceb4-4c40-b4f3-ded470d026df</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>2017北京中考名额分配方式</noteName>
+    <noteGuid>271636ea-fe89-4802-a785-7cbd4e82b653</noteGuid>
+    <noteDirName>2017北京中考名额分配方式</noteDirName>
+    <noteFileName>2017北京中考名额分配方式.docx</noteFileName>
+    <tagGuidLst>
+      <string>3a4e3a8d-ceb4-4c40-b4f3-ded470d026df</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
+  <NoteClass>
+    <noteName>西城政保相关</noteName>
+    <noteGuid>10de2624-28a2-4b0d-80e0-d65269e9045e</noteGuid>
+    <noteDirName>西城政保相关</noteDirName>
+    <noteFileName>西城政保相关.v</noteFileName>
+    <tagGuidLst>
+      <string>3a4e3a8d-ceb4-4c40-b4f3-ded470d026df</string>
+    </tagGuidLst>
+    <attachLst />
+  </NoteClass>
 </ArrayOfNoteClass>
